@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Brian Thomas Linton,Brian,Linton,United By Blue Walnut Street LLC,www.unitedbyblue.com
-Jennifer Wilkinson,Jennifer,Wilkinson,Smartwool LLC,www.smartwool.com
-Ben Jones,Ben,Jones,Long Tie Store,www.longtiestore.com
-Bonnie Matthews,Bonnie,Matthews,Blu Pony Vintage,www.bluponyvintage.com
-Ryan Mcclellan,Ryan,Mcclellan,Born of Water,www.bornofwater.com
-Grant Spencer,Grant,Spencer,GTLS Designs,www.gtlsdesigns.com
-Justin Schneider,Justin,Schneider,Wolf & Shepherd,www.wolfandshepherd.com
-Stephanie Higgs,Stephanie,Higgs,Cielo Brands,www.cielobrands.com
-Scott Mcgrath,Scott,Mcgrath,My Shoe Connection,www.myshoeconnection.com
-Wendy Mcmonigle,Wendy,Mcmonigle,WM Design House,www.wmdesignhouse.com
-Jenny Ballou,Jenny,Ballou,ecospire,www.ecospire.com
-Melanie Travis,Melanie,Travis,Andie,www.andieswim.com
-Jason Sochol,Jason,Sochol,Tvp Nyc,www.tvp.nyc
-Taylor Lane Roberts,Taylor,Roberts,Taylor Lane Designs,www.taylorlanedesigns.com
-Tim Joseph Katz,Tim,Katz,Dyode,www.dyode.com
-Janice Howard,Janice,Howard,HoraceHugh,www.horacehugh.com
-Joe Oh,Joe,Oh,blipshift,www.blipshift.com
-Kazuki Kozuru Salifoska,Kazuki,Salifoska,KEDIC Fashion Workshop,www.kedicworkshop.com
-Josh Grant,Josh,Grant,Hltnco,www.hltnco.com
-Alyssa Ramirez,,,Good Work(s) Make A Difference,www.goodworksmakeadifference.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,website,mailQuery,mailTimestamp,phone,error,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat,linkedin
+Brian Thomas Linton,Brian,Linton,United By Blue Walnut Street LLC,www.unitedbyblue.com,brian@unitedbyblue.com,nominative@pro,Mr,United By Blue Walnut Street,www.linkedin.com/company/united-by-blue,Brian,Brian Linton,Linton,www.unitedbyblue.com,Brian Thomas Linton | United By Blue Walnut Street LLC | www.unitedbyblue.com,2021-11-20T19:22:51.139Z,,,,,,,,,,,,
+Jennifer Wilkinson,Jennifer,Wilkinson,Smartwool LLC,www.smartwool.com,,,Mrs,Smartwool,www.linkedin.com/company/smartwool,Jennifer,Jennifer Wilkinson,Wilkinson,www.smartwool.com,Jennifer Wilkinson | Smartwool LLC | www.smartwool.com,2021-11-20T19:22:58.622Z,+1 888-879-9665,No email found,,,,,,,,,,
+Ben Jones,Ben,Jones,Long Tie Store,www.longtiestore.com,ben@longtiestore.com,nominative@pro,Mr,Long Tie Store,www.linkedin.com/company/longtiestore,Ben,Ben Jones,Jones,www.longtiestore.com,Ben Jones | Long Tie Store | www.longtiestore.com,2021-11-20T19:23:10.646Z,,,,,,,,,,,,
+Bonnie Matthews,Bonnie,Matthews,Blu Pony Vintage,www.bluponyvintage.com,,,Mrs,Blu Pony Vintage,www.linkedin.com/company/blu-pony-vintage,Bonnie,Bonnie Matthews,Matthews,www.bluponyvintage.com,Bonnie Matthews | Blu Pony Vintage | www.bluponyvintage.com,2021-11-20T19:23:23.253Z,+81 47220386,No email found,,,,,,,,,,
+Ryan Mcclellan,Ryan,Mcclellan,Born of Water,www.bornofwater.com,ryan@bornofwater.com,nominative@pro,Mr,Born Of Water,www.linkedin.com/company/born-of-water,Ryan,Ryan Mcclellan,Mcclellan,www.bornofwater.com,Ryan Mcclellan | Born of Water | www.bornofwater.com,2021-11-20T19:23:34.966Z,+1 800-661-9352,,,,,,,,,,,
+Grant Spencer,Grant,Spencer,GTLS Designs,www.gtlsdesigns.com,,,Mr,Gtls Designs,www.linkedin.com/company/gtls-designs,Grant,Grant Spencer,Spencer,www.gtlsdesigns.com,Grant Spencer | GTLS Designs | www.gtlsdesigns.com,2021-11-20T19:23:46.726Z,,No email found,,,,,,,,,,
+Justin Schneider,Justin,Schneider,Wolf & Shepherd,www.wolfandshepherd.com,justin@wolfandshepherd.com,nominative@pro,Mr,Wolf & Shepherd,www.linkedin.com/company/wolf-&-shepherd,Justin,Justin Schneider,Schneider,www.wolfandshepherd.com,Justin Schneider | Wolf & Shepherd | www.wolfandshepherd.com,2021-11-20T19:23:59.523Z,,,70.22Z,Conseil pour les affaires et autres conseils de gestion,1-2,442257473,44225747300011,13 Boulevard Jehan de Brie,Lésigny,77150,FR29442257473,
+Stephanie Higgs,Stephanie,Higgs,Cielo Brands,www.cielobrands.com,stephanie@cielobrands.com,nominative@pro,Mrs,Cielo Brands,www.linkedin.com/company/cielo-brands,Stephanie,Stephanie Higgs,Higgs,www.cielobrands.com,Stephanie Higgs | Cielo Brands | www.cielobrands.com,2021-11-20T19:24:11.394Z,,,,,,,,,,,,
+Scott Mcgrath,Scott,Mcgrath,My Shoe Connection,www.myshoeconnection.com,,,Mr,My Shoe Connection,www.linkedin.com/company/my-shoe-connection,Scott,Scott Mcgrath,Mcgrath,www.myshoeconnection.com,Scott Mcgrath | My Shoe Connection | www.myshoeconnection.com,2021-11-20T19:24:18.160Z,,No email found,,,,,,,,,,www.linkedin.com/in/scottrmcgrath
+Wendy Mcmonigle,Wendy,Mcmonigle,WM Design House,www.wmdesignhouse.com,wendy@wmdesignhouse.com,catch-all@pro,Mrs,Wm Design House,www.linkedin.com/company/wm-design-house,Wendy,Wendy Mcmonigle,Mcmonigle,www.wmdesignhouse.com,Wendy Mcmonigle | WM Design House | www.wmdesignhouse.com,2021-11-20T19:24:30.788Z,,,,,,,,,,,,
+Jenny Ballou,Jenny,Ballou,ecospire,www.ecospire.com,jenny@ecospire.com,nominative@pro,Mrs,Ecospire,www.linkedin.com/company/2934317,Jenny,Jenny Ballou,Ballou,www.ecospire.com,Jenny Ballou | ecospire | www.ecospire.com,2021-11-20T19:24:42.308Z,,,,,,,,,,,,
+Melanie Travis,Melanie,Travis,Andie,www.andieswim.com,melanie@andieswim.com,nominative@pro,Mrs,Andie,www.linkedin.com/company/andie,Melanie,Melanie Travis,Travis,www.andieswim.com,Melanie Travis | Andie | www.andieswim.com,2021-11-20T19:24:54.118Z,,,86.23Z,Pratique dentaire,1-2,480476894,48047689400021,5 Rue Vauban,Grenoble,38000,FR24480476894,
+Jason Sochol,Jason,Sochol,Tvp Nyc,www.tvp.nyc,jason@tvp.nyc,nominative@pro,Mr,Tvp Nyc,www.linkedin.com/company/the-vanity-project,Jason,Jason Sochol,Sochol,www.tvp.nyc,Jason Sochol | Tvp Nyc | www.tvp.nyc,2021-11-20T19:25:07.282Z,+1 212-419-0772,,,,,,,,,,,
+Taylor Lane Roberts,Taylor,Roberts,Taylor Lane Designs,www.taylorlanedesigns.com,taylor@taylorlanedesigns.com,nominative@pro,,Taylor Lane Designs,www.linkedin.com/company/taylor-lane-designs,Taylor,Taylor Roberts,Roberts,www.taylorlanedesigns.com,Taylor Lane Roberts | Taylor Lane Designs | www.taylorlanedesigns.com,2021-11-20T19:25:13.762Z,,,,,,,,,,,,www.linkedin.com/in/taylor-lane-roberts-117061b
+Tim Joseph Katz,Tim,Katz,Dyode,www.dyode.com,tim.katz@dyode.com,nominative@pro,Mr,Dyode,www.linkedin.com/company/dyode,Tim,Tim Katz,Katz,www.dyode.com,Tim Joseph Katz | Dyode | www.dyode.com,2021-11-20T19:25:25.260Z,,,,,,,,,,,,www.linkedin.com/in/timkatz
+Janice Howard,Janice,Howard,HoraceHugh,www.horacehugh.com,,,Mrs,Horacehugh,www.linkedin.com/company/horacehugh,Janice,Janice Howard,Howard,www.horacehugh.com,Janice Howard | HoraceHugh | www.horacehugh.com,2021-11-20T19:25:37.643Z,,No email found,,,,,,,,,,
+Joe Oh,Joe,Oh,blipshift,www.blipshift.com,joe.oh@blipshift.com,nominative@pro,Mr,Blipshift,www.linkedin.com/company/blipshift,Joe,Joe Oh,Oh,www.blipshift.com,Joe Oh | blipshift | www.blipshift.com,2021-11-20T19:25:44.437Z,,,,,,,,,,,,
+Kazuki Kozuru Salifoska,Kazuki,Salifoska,KEDIC Fashion Workshop,www.kedicworkshop.com,kazuki@kedicworkshop.com,nominative@pro,Mr,Kedic Fashion Workshop,www.linkedin.com/company/kedic-fashion-workshop,Kazuki,Kazuki Salifoska,Salifoska,www.kedicworkshop.com,Kazuki Kozuru Salifoska | KEDIC Fashion Workshop | www.kedicworkshop.com,2021-11-20T19:25:51.034Z,,,,,,,,,,,,www.linkedin.com/in/kazuki-kozuru-salifoska
+Josh Grant,Josh,Grant,Hltnco,www.hltnco.com,,,Mr,Hltnco,www.linkedin.com/company/hltnco,Josh,Josh Grant,Grant,www.hltnco.com,Josh Grant | Hltnco | www.hltnco.com,2021-11-20T19:26:09.818Z,,No email found,,,,,,,,,,
+Alyssa Ramirez,,,Good Work(s) Make A Difference,www.goodworksmakeadifference.com,alyssa@goodworksmakeadifference.com,nominative@pro,Mrs,Good Work Make A Difference,www.linkedin.com/company/good-work-s-make-a-difference,Alyssa,Alyssa Ramirez,Ramirez,www.goodworksmakeadifference.com,Alyssa Ramirez | Good Work(s) Make A Difference | www.goodworksmakeadifference.com,2021-11-20T19:26:21.263Z,+1 888-620-8783,,,,,,,,,,,www.linkedin.com/in/alyssa-ramirez-58305673

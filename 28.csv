@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Aoife Cleary,Aoife,Cleary,Portwest Llc,www.portwest.com
-Hammad Raza,Hammad,Raza,Textile House,www.textile-house.com.au
-Camilla Bradley,Camilla,Bradley,CK Bradley,www.ckbradley.com
-Sherri Schipper,Sherri,Schipper,Peerless Garments LP,www.peerless.mb.ca
-George Kilian,George,Kilian,Sharprint,www.sharprint.com
-Ben Hart,Ben,Hart,PalmerCash,www.palmercash.com
-Nathan Hill,Nathan,Hill,"Stance, Inc.",www.stance.com
-Steve Karas,Steve,Karas,Kaleidoscope Imprints,www.kaleidoscopeimprints.com
-Rob Prince,Rob,Prince,Prospect Jewelers,www.prospectjewelers.com
-Latif Chase Hamilton,Latif,Hamilton,SpiritHoods LLC,www.spirithoods.com
-Kendal Maras,Kendal,Maras,Clare V.,www.clarev.com
-Brit Ankari,Brit,Ankari,Leni Penn,www.lenipenn.com
-Mike Garman,Mike,Garman,Glyndon Lord Baltimore Cleaners,www.glyndonlordbaltimore.com
-Raymond Hokanson,Raymond,Hokanson,eSix Sportswear,www.esixsportswear.com
-Donna Lehmann,Donna,Lehmann,NeedleUp Digitizing LLC,www.needleup.com
-Michael Nemeroff,Michael,Nemeroff,"Printfly, Inc",www.rushordertees.com
-Yanina Fleysher,Yanina,Fleysher,Yanina & Co.,www.yanina-co.com
-Daina Burnes Linton,Daina,Linton,"Fashion Metric, Inc.",www.fashionmetric.com
-Melody Townsend,Melody,Townsend,Active Creatures,www.activecreatures.com
-Janice Masoud,,,Under the Nile,www.underthenile.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,naf5_code,naf5_des,nb_employees,phone,siren,siret,vat,website,mailQuery,mailTimestamp,error,siret_address,siret_city,siret_zip,linkedin
+Aoife Cleary,Aoife,Cleary,Portwest Llc,www.portwest.com,aoife@portwest.com,nominative@pro,Mrs,Portwest,www.linkedin.com/company/portwest,Aoife,Aoife Cleary,Cleary,46.42Z,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,Unités non employeuses,+44 1709 894575,487865412,48786541200018,FR11487865412,www.portwest.com,Aoife Cleary | Portwest Llc | www.portwest.com,2021-11-20T20:20:32.690Z,,,,,
+Hammad Raza,Hammad,Raza,Textile House,www.textile-house.com.au,,,Mr,Textile House,www.linkedin.com/company/textile-house,Hammad,Hammad Raza,Raza,,,,+61 3 9923 6488,,,,www.textile-house.com.au,Hammad Raza | Textile House | www.textile-house.com.au,2021-11-20T20:20:46.637Z,No email found,,,,
+Camilla Bradley,Camilla,Bradley,CK Bradley,www.ckbradley.com,,,Mrs,Ck Bradley,www.linkedin.com/company/ck-bradley,Camilla,Camilla Bradley,Bradley,,,,+1 401-619-3912,,,,www.ckbradley.com,Camilla Bradley | CK Bradley | www.ckbradley.com,2021-11-20T20:20:53.639Z,No email found,,,,
+Sherri Schipper,Sherri,Schipper,Peerless Garments LP,www.peerless.mb.ca,schipper@peerless.co,catch-all@pro,Mrs,Peerless Garments Lp,www.linkedin.com/company/peerless-garments-ltd-,Sherri,Sherri Schipper,Schipper,,,,,,,,www.peerless.mb.ca,Sherri Schipper | Peerless Garments LP | www.peerless.mb.ca,2021-11-20T20:21:00.403Z,,,,,
+George Kilian,George,Kilian,Sharprint,www.sharprint.com,gkilian@sharprint.com,nominative@pro,Mr,Sharprint,www.linkedin.com/company/94698,George,George Kilian,Kilian,,,,+1 773-862-9300,,,,www.sharprint.com,George Kilian | Sharprint | www.sharprint.com,2021-11-20T20:21:19.134Z,,,,,
+Ben Hart,Ben,Hart,PalmerCash,www.palmercash.com,ben@palmercash.com,nominative@pro,Mr,Palmercash,www.linkedin.com/company/palmercash,Ben,Ben Hart,Hart,,,,+20 88 060597,,,,www.palmercash.com,Ben Hart | PalmerCash | www.palmercash.com,2021-11-20T20:21:32.277Z,,,,,
+Nathan Hill,Nathan,Hill,"Stance, Inc.",www.stance.com,nhill@stance.com,nominative@pro,Mr,"Stance,",www.linkedin.com/company/stance-socks,Nathan,Nathan Hill,Hill,69.10Z,Activités juridiques,3-5,,429559586,42955958600038,FR14429559586,www.stance.com,"Nathan Hill | Stance, Inc. | www.stance.com",2021-11-20T20:21:45.137Z,,37 Avenue de Friedland,Paris,75008,
+Steve Karas,Steve,Karas,Kaleidoscope Imprints,www.kaleidoscopeimprints.com,steve@kaleidoscopeimprints.com,nominative@pro,Mr,Kaleidoscope Imprints,www.linkedin.com/company/3944297,Steve,Steve Karas,Karas,,,,,,,,www.kaleidoscopeimprints.com,Steve Karas | Kaleidoscope Imprints | www.kaleidoscopeimprints.com,2021-11-20T20:21:56.883Z,,,,,
+Rob Prince,Rob,Prince,Prospect Jewelers,www.prospectjewelers.com,rob@prospectjewelers.com,nominative@pro,Mr,Prospect Jewelers,,Rob,Rob Prince,Prince,,,,,,,,www.prospectjewelers.com,Rob Prince | Prospect Jewelers | www.prospectjewelers.com,2021-11-20T20:22:03.836Z,,,,,
+Latif Chase Hamilton,Latif,Hamilton,SpiritHoods LLC,www.spirithoods.com,latif@spirithoods.com,nominative@pro,Mr,Spirithoods,www.linkedin.com/company/spirithoods-llc,Latif,Latif Hamilton,Hamilton,,,,+1 800-778-7879,,,,www.spirithoods.com,Latif Chase Hamilton | SpiritHoods LLC | www.spirithoods.com,2021-11-20T20:22:16.350Z,,,,,
+Kendal Maras,Kendal,Maras,Clare V.,www.clarev.com,kendal@clarev.com,nominative@pro,Mr,Clare V.,www.linkedin.com/company/clare-vivier,Kendal,Kendal Maras,Maras,94.91Z,Activités des organisations religieuses,Unités non employeuses,,323592311,32359231100019,FR72323592311,www.clarev.com,Kendal Maras | Clare V. | www.clarev.com,2021-11-20T20:22:23.647Z,,Place de la Mairie,Garéoult,83136,
+Brit Ankari,Brit,Ankari,Leni Penn,www.lenipenn.com,brit@lenipenn.com,nominative@pro,Mrs,Leni Penn,www.linkedin.com/company/leni-penn,Brit,Brit Ankari,Ankari,,,,,,,,www.lenipenn.com,Brit Ankari | Leni Penn | www.lenipenn.com,2021-11-20T20:22:35.424Z,,,,,
+Mike Garman,Mike,Garman,Glyndon Lord Baltimore Cleaners,www.glyndonlordbaltimore.com,,,Mr,Glyndon Lord Baltimore Cleaners,www.linkedin.com/company/glyndon-lord-baltimore-cleaners,Mike,Mike Garman,Garman,,,,,,,,www.glyndonlordbaltimore.com,Mike Garman | Glyndon Lord Baltimore Cleaners | www.glyndonlordbaltimore.com,2021-11-20T20:22:46.767Z,No email found,,,,
+Raymond Hokanson,Raymond,Hokanson,eSix Sportswear,www.esixsportswear.com,r.hokanson@esixsportswear.com,nominative@pro,Mr,Esix Sportswear,www.linkedin.com/company/esix-sportswear,Raymond,Raymond Hokanson,Hokanson,,,,+81 74655767,,,,www.esixsportswear.com,Raymond Hokanson | eSix Sportswear | www.esixsportswear.com,2021-11-20T20:22:58.134Z,,,,,
+Donna Lehmann,Donna,Lehmann,NeedleUp Digitizing LLC,www.needleup.com,donna@needleup.com,nominative@pro,Mrs,Needleup Digitizing,www.linkedin.com/company/needleup-digitizing-llc,Donna,Donna Lehmann,Lehmann,,,,,,,,www.needleup.com,Donna Lehmann | NeedleUp Digitizing LLC | www.needleup.com,2021-11-20T20:23:10.331Z,,,,,
+Michael Nemeroff,Michael,Nemeroff,"Printfly, Inc",www.rushordertees.com,m.nemeroff@rushordertees.com,nominative@pro,Mr,"Printfly,",www.linkedin.com/company/rush-order-tees,Michael,Michael Nemeroff,Nemeroff,,,,+62 01233,,,,www.rushordertees.com,"Michael Nemeroff | Printfly, Inc | www.rushordertees.com",2021-11-20T20:23:22.901Z,,,,,
+Yanina Fleysher,Yanina,Fleysher,Yanina & Co.,www.yanina-co.com,yanina@yanina-co.com,nominative@pro,Mrs,Yanina &,,Yanina,Yanina Fleysher,Fleysher,56.10C,Restauration de type rapide,Unités non employeuses,+1 973-857-5544,435235114,43523511400012,FR91435235114,www.yanina-co.com,Yanina Fleysher | Yanina & Co. | www.yanina-co.com,2021-11-20T20:23:34.848Z,,19 Rue du Faubourg Montmartre,Paris,75009,
+Daina Burnes Linton,Daina,Linton,"Fashion Metric, Inc.",www.fashionmetric.com,daina@fashionmetric.com,nominative@pro,Mrs,"Fashion Metric,",www.linkedin.com/company/fashion-metric,Daina,Daina Linton,Linton,,,,,,,,www.fashionmetric.com,"Daina Burnes Linton | Fashion Metric, Inc. | www.fashionmetric.com",2021-11-20T20:23:41.301Z,,,,,
+Melody Townsend,Melody,Townsend,Active Creatures,www.activecreatures.com,melody@activecreatures.com,nominative@pro,Mrs,Active Creatures,www.linkedin.com/company/active-creatures,Melody,Melody Townsend,Townsend,,,,+61 1300 793 929,,,,www.activecreatures.com,Melody Townsend | Active Creatures | www.activecreatures.com,2021-11-20T20:23:57.330Z,,,,,www.linkedin.com/in/melodytownsendaus
+Janice Masoud,,,Under the Nile,www.underthenile.com,janice@underthenile.com,nominative@pro,Mrs,Under The Nile,www.linkedin.com/company/under-the-nile,Janice,Janice Masoud,Masoud,,,,+63 67783655,,,,www.underthenile.com,Janice Masoud | Under the Nile | www.underthenile.com,2021-11-20T20:24:03.999Z,,,,,www.linkedin.com/in/janice-masoud-238087108

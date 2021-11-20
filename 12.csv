@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Al Andrews,Al,Andrews,Tasc Performance Inc.,www.tascperformance.com
-David Spandorfer,David,Spandorfer,Janji,www.runjanji.com
-Jon Wallace,Jon,Wallace,Cut Loose Hair Salon,www.cutlooseaustin.com
-Ken Bold,Ken,Bold,The Bold Look,www.boldlook.net
-Kim Galasso Spatz,Kim,Spatz,Denim Lily Boutique,www.denimlily.com
-Nimet Degirmencioglu,Nimet,Degirmencioglu,Eco Artisan Corp,www.sohamdave.com
-Todd Stevens,Todd,Stevens,"Scrimco, Inc",www.scrimco.com
-Michaelle Graybeal,Michaelle,Graybeal,All That Jas,www.allthatjas.com
-Daniel Protz,Daniel,Protz,"Eye Elegance, Inc",www.eyeelegance.com
-William Nachman,William,Nachman,Criquet Shirts LLC,www.criquetshirts.com
-Michael Monfared,Michael,Monfared,DTLA Print,www.dtlaprint.com
-Victoria Kent,Victoria,Kent,G/Fore,www.gfore.com
-Justin Tang,Justin,Tang,"Only The Best, Inc.",www.crazyshirts.com
-Kate Huyett,Kate,Huyett,Bombas,www.bombas.com
-Cristina Cellini,Cristina,Cellini,Nobodysugly LLC,www.nobodysugly.com
-Elizabeth Gazda,Elizabeth,Gazda,Embr Labs Inc.,www.embrlabs.com
-Brett Eisenberg,Brett,Eisenberg,Triple Aught Design,www.tripleaughtdesign.com
-Jeffrey Levine,Jeffrey,Levine,"Golden Goods Usa, Inc.",www.goldengoodsusa.com
-Kyle Robinson,Kyle,Robinson,Print My Threads,www.printmythreads.com
-David Jensen,,,"Lupine, Inc.",www.lupinepet.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,phone,website,mailQuery,mailTimestamp,error,naf5_code,naf5_des,siren,siret,siret_address,siret_city,siret_zip,vat,linkedin
+Al Andrews,Al,Andrews,Tasc Performance Inc.,www.tascperformance.com,al@tascperformance.com,nominative@pro,Mr,Tasc Performance,www.linkedin.com/company/tasc-performance,Al,Al Andrews,Andrews,+1 504-731-2989,www.tascperformance.com,Al Andrews | Tasc Performance Inc. | www.tascperformance.com,2021-11-20T19:33:09.174Z,,,,,,,,,,
+David Spandorfer,David,Spandorfer,Janji,www.runjanji.com,,,Mr,Janji,www.linkedin.com/company/janji,David,David Spandorfer,Spandorfer,+61 77180763,www.runjanji.com,David Spandorfer | Janji | www.runjanji.com,2021-11-20T19:33:16.952Z,No email found,,,,,,,,,
+Jon Wallace,Jon,Wallace,Cut Loose Hair Salon,www.cutlooseaustin.com,,,Mr,Cut Loose Hair Salon,www.linkedin.com/company/cut-loose-hair-salon,Jon,Jon Wallace,Wallace,,www.cutlooseaustin.com,Jon Wallace | Cut Loose Hair Salon | www.cutlooseaustin.com,2021-11-20T19:33:33.937Z,No email found,,,,,,,,,
+Ken Bold,Ken,Bold,The Bold Look,www.boldlook.net,ken.bold@boldlook.net,nominative@pro,Mr,The Bold Look,www.linkedin.com/company/the-bold-look,Ken,Ken Bold,Bold,,www.boldlook.net,Ken Bold | The Bold Look | www.boldlook.net,2021-11-20T19:33:46.917Z,,,,,,,,,,
+Kim Galasso Spatz,Kim,Spatz,Denim Lily Boutique,www.denimlily.com,,,Mrs,Denim Lily Boutique,www.linkedin.com/company/denim-lily-boutique,Kim,Kim Spatz,Spatz,,www.denimlily.com,Kim Galasso Spatz | Denim Lily Boutique | www.denimlily.com,2021-11-20T19:34:04.220Z,No email found,,,,,,,,,
+Nimet Degirmencioglu,Nimet,Degirmencioglu,Eco Artisan Corp,www.sohamdave.com,nimet@sohamdave.com,nominative@pro,Mrs,Eco Artisan,www.linkedin.com/company/soham-dave,Nimet,Nimet Degirmencioglu,Degirmencioglu,,www.sohamdave.com,Nimet Degirmencioglu | Eco Artisan Corp | www.sohamdave.com,2021-11-20T19:34:17.159Z,,43.22B,Travaux d'installation d'équipements thermiques et de climatisation,879729416,87972941600013,21 Rue Rodier,Paris,75009,FR38879729416,
+Todd Stevens,Todd,Stevens,"Scrimco, Inc",www.scrimco.com,todd@scrimco.com,nominative@pro,Mr,"Scrimco,",www.linkedin.com/company/scrimco-inc,Todd,Todd Stevens,Stevens,,www.scrimco.com,"Todd Stevens | Scrimco, Inc | www.scrimco.com",2021-11-20T19:34:23.489Z,,,,,,,,,,
+Michaelle Graybeal,Michaelle,Graybeal,All That Jas,www.allthatjas.com,,,Mrs,All That Jas,www.linkedin.com/company/all-that-jas,Michaelle,Michaelle Graybeal,Graybeal,+1 336-524-0107,www.allthatjas.com,Michaelle Graybeal | All That Jas | www.allthatjas.com,2021-11-20T19:34:41.595Z,No email found,,,,,,,,,
+Daniel Protz,Daniel,Protz,"Eye Elegance, Inc",www.eyeelegance.com,daniel@eyeelegance.com,nominative@pro,Mr,"Eye Elegance,",www.linkedin.com/company/eye-elegance,Daniel,Daniel Protz,Protz,,www.eyeelegance.com,"Daniel Protz | Eye Elegance, Inc | www.eyeelegance.com",2021-11-20T19:34:48.938Z,,,,,,,,,,
+William Nachman,William,Nachman,Criquet Shirts LLC,www.criquetshirts.com,,,Mr,Criquet Shirts,www.linkedin.com/company/criquet-shirts,William,William Nachman,Nachman,+51 22712215,www.criquetshirts.com,William Nachman | Criquet Shirts LLC | www.criquetshirts.com,2021-11-20T19:34:55.124Z,No email found,,,,,,,,,
+Michael Monfared,Michael,Monfared,DTLA Print,www.dtlaprint.com,michael@dtlaprint.com,nominative@pro,Mr,Dtla Print,www.linkedin.com/company/dtla-print,Michael,Michael Monfared,Monfared,+32 3 261 87 00,www.dtlaprint.com,Michael Monfared | DTLA Print | www.dtlaprint.com,2021-11-20T19:35:08.276Z,,,,,,,,,,
+Victoria Kent,Victoria,Kent,G/Fore,www.gfore.com,victoria@gfore.com,nominative@pro,Mrs,G/fore,www.linkedin.com/company/g-fore,Victoria,Victoria Kent,Kent,+1 844-861-8688,www.gfore.com,Victoria Kent | G/Fore | www.gfore.com,2021-11-20T19:35:19.957Z,,,,,,,,,,
+Justin Tang,Justin,Tang,"Only The Best, Inc.",www.crazyshirts.com,justint@crazyshirts.com,nominative@pro,Mr,"Only The Best,",www.linkedin.com/company/crazy-shirts,Justin,Justin Tang,Tang,+1 800-771-2720,www.crazyshirts.com,"Justin Tang | Only The Best, Inc. | www.crazyshirts.com",2021-11-20T19:35:31.540Z,,71..4B,,392589008,39258900800011,4 Rue François de Mahy,Les Trois-Bassins,97426,FR20392589008,
+Kate Huyett,Kate,Huyett,Bombas,www.bombas.com,kate@bombas.com,nominative@pro,Mrs,Bombas,www.linkedin.com/company/bombas,Kate,Kate Huyett,Huyett,+1 800-314-0980,www.bombas.com,Kate Huyett | Bombas | www.bombas.com,2021-11-20T19:35:38.784Z,,,,,,,,,,
+Cristina Cellini,Cristina,Cellini,Nobodysugly LLC,www.nobodysugly.com,,,Mrs,Nobodysugly,www.linkedin.com/company/nobodysugly-llc,Cristina,Cristina Cellini,Cellini,,www.nobodysugly.com,Cristina Cellini | Nobodysugly LLC | www.nobodysugly.com,2021-11-20T19:35:49.856Z,No email found,,,,,,,,,
+Elizabeth Gazda,Elizabeth,Gazda,Embr Labs Inc.,www.embrlabs.com,,,Mrs,Embr Labs,www.linkedin.com/company/embr-labs,Elizabeth,Elizabeth Gazda,Gazda,,www.embrlabs.com,Elizabeth Gazda | Embr Labs Inc. | www.embrlabs.com,2021-11-20T19:36:02.941Z,No email found,,,,,,,,,www.linkedin.com/in/elizabeth-gazda-4823b
+Brett Eisenberg,Brett,Eisenberg,Triple Aught Design,www.tripleaughtdesign.com,beisenberg@tripleaughtdesign.com,nominative@pro,Mr,Triple Aught Design,www.linkedin.com/company/triple-aught-design-llc.,Brett,Brett Eisenberg,Eisenberg,+1 866-613-1386,www.tripleaughtdesign.com,Brett Eisenberg | Triple Aught Design | www.tripleaughtdesign.com,2021-11-20T19:36:14.428Z,,,,,,,,,,
+Jeffrey Levine,Jeffrey,Levine,"Golden Goods Usa, Inc.",www.goldengoodsusa.com,jeffrey@goldengoodsusa.com,nominative@pro,Mr,"Golden Goods Usa,",www.linkedin.com/company/goldengoodsusa,Jeffrey,Jeffrey Levine,Levine,+1 415-963-9817,www.goldengoodsusa.com,"Jeffrey Levine | Golden Goods Usa, Inc. | www.goldengoodsusa.com",2021-11-20T19:36:26.213Z,,,,,,,,,,
+Kyle Robinson,Kyle,Robinson,Print My Threads,www.printmythreads.com,kyle@printmythreads.com,nominative@pro,Mr,Print My Threads,www.linkedin.com/company/print-my-threads,Kyle,Kyle Robinson,Robinson,+1 606-833-0335,www.printmythreads.com,Kyle Robinson | Print My Threads | www.printmythreads.com,2021-11-20T19:36:32.546Z,,,,,,,,,,
+David Jensen,,,"Lupine, Inc.",www.lupinepet.com,david.jensen@lupinepet.com,nominative@pro,Mr,"Lupine,",www.linkedin.com/company/lupine,David,David Jensen,Jensen,+60 33567371,www.lupinepet.com,"David Jensen | Lupine, Inc. | www.lupinepet.com",2021-11-20T19:36:43.670Z,,,,,,,,,,

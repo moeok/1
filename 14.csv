@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Linda Schwartzbauer,Linda,Schwartzbauer,Corporate Mark,www.corporatemark.com
-Jill Sherman,Jill,Sherman,"Modalyst, LLC",www.modalyst.co
-Doug Stayman,Doug,Stayman,In Your Face Apparel,www.inyourfaceapparel.com
-Micah Belamarich,Micah,Belamarich,Only Ny Inc,www.onlyny.com
-Kristen Gioscia,Kristen,Gioscia,Frame,www.frame-store.com
-Rich Anthony Sandomeno,Rich,Sandomeno,Spragwerks Inc.,www.spragwerks.com
-Polina Veksler,Polina,Veksler,Universal Standard Clothing LLC,www.universalstandard.net
-Shayna Samuels,Shayna,Samuels,City Threads,www.citythreads.com
-Rossana Papreck,Rossana,Papreck,Rcm Sterling,www.rcmsterling.com
-Camille Macmillan,Camille,Macmillan,Kid Dangerous Llc,www.kiddangerous.com
-Martin Sherene,Martin,Sherene,"Swaggle, Inc.",www.goswaggle.com
-Rachelle Balagtas,Rachelle,Balagtas,"Trendly, Inc.",www.rebagg.com
-Fred Meyers,Fred,Meyers,The Queensboro Shirt Company,www.queensboro.com
-Josh Walker,Josh,Walker,"1620 Workwear, Inc.",www.1620usa.com
-Clint Henderson,Clint,Henderson,"Every Brand Apparel, Inc.",www.everybrandapparel.com
-Umaimah Ali Mendhro,Umaimah,Mendhro,VIDA & Co.,www.shopvida.com
-Meg Sky,Meg,Sky,Seldom Seen,www.seldomseen.co
-Steve Powers,Steve,Powers,Sugar and Bruno,www.sugarandbruno.com
-Gerald Loomis,Gerald,Loomis,Wilson Trophy Co. Of California,www.wilsontrophy.com
-Charlie Moss,,,"K2 Trophies & Awards, Llc",www.k2awards.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,website,mailQuery,mailTimestamp,phone,company_results,company_turnover,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat,error,linkedin
+Linda Schwartzbauer,Linda,Schwartzbauer,Corporate Mark,www.corporatemark.com,linda@corporatemark.com,nominative@pro,Mrs,Corporate Mark,www.linkedin.com/company/corporate-mark-inc-,Linda,Linda Schwartzbauer,Schwartzbauer,www.corporatemark.com,Linda Schwartzbauer | Corporate Mark | www.corporatemark.com,2021-11-20T19:36:48.988Z,,,,,,,,,,,,,,
+Jill Sherman,Jill,Sherman,"Modalyst, LLC",www.modalyst.co,jill@modalyst.co,nominative@pro,Mrs,"Modalyst,",www.linkedin.com/company/modalyst,Jill,Jill Sherman,Sherman,www.modalyst.co,"Jill Sherman | Modalyst, LLC | www.modalyst.co",2021-11-20T19:36:56.971Z,+1 331-303-5921,,,,,,,,,,,,,
+Doug Stayman,Doug,Stayman,In Your Face Apparel,www.inyourfaceapparel.com,doug@inyourfaceapparel.com,nominative@pro,Mr,In Your Face Apparel,www.linkedin.com/company/in-your-face-apparel,Doug,Doug Stayman,Stayman,www.inyourfaceapparel.com,Doug Stayman | In Your Face Apparel | www.inyourfaceapparel.com,2021-11-20T19:37:03.667Z,+1 972-267-9450,,,,,,,,,,,,,
+Micah Belamarich,Micah,Belamarich,Only Ny Inc,www.onlyny.com,micah@onlyny.com,nominative@pro,Mr,Only Ny,,Micah,Micah Belamarich,Belamarich,www.onlyny.com,Micah Belamarich | Only Ny Inc | www.onlyny.com,2021-11-20T19:37:16.069Z,,,,,,,,,,,,,,
+Kristen Gioscia,Kristen,Gioscia,Frame,www.frame-store.com,,,Mr,Frame,www.linkedin.com/company/frame-denim,Kristen,Kristen Gioscia,Gioscia,www.frame-store.com,Kristen Gioscia | Frame | www.frame-store.com,2021-11-20T19:37:28.174Z,+1 424-400-2256,1861,0,46.42Z,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,Unités non employeuses,401049853,40104985300054,Place Port Nivelle,Saint-Jean-de-Luz,64500,FR80401049853,No email found,
+Rich Anthony Sandomeno,Rich,Sandomeno,Spragwerks Inc.,www.spragwerks.com,rich@spragwerks.com,nominative@pro,Mr,Spragwerks,,Rich,Rich Sandomeno,Sandomeno,www.spragwerks.com,Rich Anthony Sandomeno | Spragwerks Inc. | www.spragwerks.com,2021-11-20T19:38:18.550Z,,,,,,,,,,,,,,
+Polina Veksler,Polina,Veksler,Universal Standard Clothing LLC,www.universalstandard.net,pveksler@universalstandard.com,nominative@pro,Mrs,Universal Standard Clothing,www.linkedin.com/company/universal-standard,Polina,Polina Veksler,Veksler,www.universalstandard.net,Polina Veksler | Universal Standard Clothing LLC | www.universalstandard.net,2021-11-20T19:38:42.755Z,+84 43948587,,,,,,,,,,,,,
+Shayna Samuels,Shayna,Samuels,City Threads,www.citythreads.com,shayna@citythreads.com,nominative@pro,Mrs,City Threads,www.linkedin.com/company/city-threads,Shayna,Shayna Samuels,Samuels,www.citythreads.com,Shayna Samuels | City Threads | www.citythreads.com,2021-11-20T19:38:49.511Z,,,,,,,,,,,,,,www.linkedin.com/in/shayna-samuels-1b02a9b0
+Rossana Papreck,Rossana,Papreck,Rcm Sterling,www.rcmsterling.com,rossana@rcmsterling.com,nominative@pro,Mrs,Rcm Sterling,www.linkedin.com/company/rcm-sterling,Rossana,Rossana Papreck,Papreck,www.rcmsterling.com,Rossana Papreck | Rcm Sterling | www.rcmsterling.com,2021-11-20T19:39:01.281Z,,,,,,,,,,,,,,
+Camille Macmillan,Camille,Macmillan,Kid Dangerous Llc,www.kiddangerous.com,camille@kiddangerous.com,catch-all@pro,,Kid Dangerous,www.linkedin.com/company/kid-dangerous-llc,Camille,Camille Macmillan,Macmillan,www.kiddangerous.com,Camille Macmillan | Kid Dangerous Llc | www.kiddangerous.com,2021-11-20T19:39:08.285Z,+1 888-705-3510,,,,,,,,,,,,,
+Martin Sherene,Martin,Sherene,"Swaggle, Inc.",www.goswaggle.com,martin@goswaggle.com,nominative@pro,Mr,"Swaggle,",www.linkedin.com/company/goswaggle,Martin,Martin Sherene,Sherene,www.goswaggle.com,"Martin Sherene | Swaggle, Inc. | www.goswaggle.com",2021-11-20T19:39:19.994Z,,,,,,,,,,,,,,
+Rachelle Balagtas,Rachelle,Balagtas,"Trendly, Inc.",www.rebagg.com,rachelle@rebagg.com,nominative@pro,Mrs,"Trendly,",www.linkedin.com/company/rebagg,Rachelle,Rachelle Balagtas,Balagtas,www.rebagg.com,"Rachelle Balagtas | Trendly, Inc. | www.rebagg.com",2021-11-20T19:39:32.441Z,,,,,,,,,,,,,,
+Fred Meyers,Fred,Meyers,The Queensboro Shirt Company,www.queensboro.com,fred@queensboro.com,nominative@pro,Mr,The Queensboro Shirt Company,www.linkedin.com/company/the-queensboro-shirt-company,Fred,Fred Meyers,Meyers,www.queensboro.com,Fred Meyers | The Queensboro Shirt Company | www.queensboro.com,2021-11-20T19:39:45.138Z,+84 48997549,,,,,,,,,,,,,
+Josh Walker,Josh,Walker,"1620 Workwear, Inc.",www.1620usa.com,josh@1620usa.com,nominative@pro,Mr,"1620 Workwear,",www.linkedin.com/company/1620-workwear,Josh,Josh Walker,Walker,www.1620usa.com,"Josh Walker | 1620 Workwear, Inc. | www.1620usa.com",2021-11-20T19:39:57.849Z,,,,,,,,,,,,,,
+Clint Henderson,Clint,Henderson,"Every Brand Apparel, Inc.",www.everybrandapparel.com,chenderson@everybrandapparel.com,nominative@pro,Mr,"Every Brand Apparel,",www.linkedin.com/company/every-brand-apparel-inc.,Clint,Clint Henderson,Henderson,www.everybrandapparel.com,"Clint Henderson | Every Brand Apparel, Inc. | www.everybrandapparel.com",2021-11-20T19:40:04.640Z,+1 888-556-6413,,,,,,,,,,,,,www.linkedin.com/in/clinthenderson
+Umaimah Ali Mendhro,Umaimah,Mendhro,VIDA & Co.,www.shopvida.com,umaimah@shopvida.com,nominative@pro,Mrs,Vida &,www.linkedin.com/company/vida-&-co-,Umaimah,Umaimah Mendhro,Mendhro,www.shopvida.com,Umaimah Ali Mendhro | VIDA & Co. | www.shopvida.com,2021-11-20T19:40:17.508Z,+1 877-529-8432,,,43.39Z,Autres travaux de finition,Unités non employeuses,421102351,42110235100036,42 Rue Gounod,Saint-Cloud,92210,FR17421102351,,
+Meg Sky,Meg,Sky,Seldom Seen,www.seldomseen.co,,,Mrs,Seldom Seen,www.linkedin.com/company/seldom-seen,Meg,Meg Sky,Sky,www.seldomseen.co,Meg Sky | Seldom Seen | www.seldomseen.co,2021-11-20T19:40:24.765Z,,,,,,,,,,,,,No email found,www.linkedin.com/in/meg-sky-1b10b06b
+Steve Powers,Steve,Powers,Sugar and Bruno,www.sugarandbruno.com,steve@sugarandbruno.com,nominative@pro,Mr,Sugar And Bruno,www.linkedin.com/company/sugar-and-bruno,Steve,Steve Powers,Powers,www.sugarandbruno.com,Steve Powers | Sugar and Bruno | www.sugarandbruno.com,2021-11-20T19:40:35.955Z,,,,,,,,,,,,,,
+Gerald Loomis,Gerald,Loomis,Wilson Trophy Co. Of California,www.wilsontrophy.com,gloomis@wilsontrophy.com,nominative@pro,Mr,Wilson Trophy Co. Of California,www.linkedin.com/company/wilson-trophy,Gerald,Gerald Loomis,Loomis,www.wilsontrophy.com,Gerald Loomis | Wilson Trophy Co. Of California | www.wilsontrophy.com,2021-11-20T19:40:49.077Z,+91 69279733,,,,,,,,,,,,,
+Charlie Moss,,,"K2 Trophies & Awards, Llc",www.k2awards.com,charlie.moss@k2awards.com,nominative@pro,Mr,"K2 Trophies & Awards,",www.linkedin.com/company/k2-awards,Charlie,Charlie Moss,Moss,www.k2awards.com,"Charlie Moss | K2 Trophies & Awards, Llc | www.k2awards.com",2021-11-20T19:41:02.026Z,,,,,,,,,,,,,,

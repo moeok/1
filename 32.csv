@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Glenn Silbert,Glenn,Silbert,"Grunt Style, Llc",www.gruntstyle.com
-Cherise Beasley,Cherise,Beasley,"White Diamond Image Consulting, Llc",www.wdimageconsulting.com
-Megan Elizabeth Cash,Megan,Cash,Lord & Lady Co.,www.lord-lady.com
-Danny Kassamali,Danny,Kassamali,Silky Socks,www.silkysocks.com
-Jalal Elbasri,Jalal,Elbasri,Jaya Apparel Group LLC,www.jayallc.com
-Larry Dyne,Larry,Dyne,Talon International Inc,www.talonzippers.com
-Larry Laughlin,Larry,Laughlin,Donald's Uniform,www.donaldsuniform.com
-Mary Jo Bruno,Mary,Bruno,Mary Jo Bruno Inc.,www.maryjobruno.com
-Johanna Cortez,Johanna,Cortez,EmbroidMe,www.embroidme-npb.com
-Elizabeth Trongone Layne,Elizabeth,Layne,"Trendly, Inc.",www.rebagg.com
-Peter Papageorge,Peter,Papageorge,Culinary Classics,www.culinaryclassics.com
-Douglas Browning,Douglas,Browning,Sweaty Bands,www.sweatybands.com
-Brooke English,Brooke,English,The Sock Drawer,www.sockdrawer.com
-Yolanda Conner Smith,Yolanda,Smith,Elite Creations UK Ltd,www.elite-creations.co.uk
-Leilani Luna,Leilani,Luna,"Hylete, Llc",www.hylete.com
-Kerry Buckley,Kerry,Buckley,H & B Fashion Distributors,www.hbfashion.com.au
-Lina Calabria,Lina,Calabria,Bellroy,www.bellroy.com
-Coco Corral,Coco,Corral,lovinganvil,www.lovinganvil.com
-Kati Leclair,Kati,Leclair,Blame Betty,www.blamebetty.com
-Jerry Deboer,,,"Paul Fredrick MenStyle, Inc.",www.paulfredrick.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,website,mailQuery,mailTimestamp,phone,error,naf5_code,naf5_des,siren,siret,siret_address,siret_city,siret_zip,vat
+Glenn Silbert,Glenn,Silbert,"Grunt Style, Llc",www.gruntstyle.com,glenn.silbert@gruntstyle.com,nominative@pro,Mr,"Grunt Style,",www.linkedin.com/company/grunt-style,Glenn,Glenn Silbert,Silbert,www.linkedin.com/in/glenn-silbert-70894913,www.gruntstyle.com,"Glenn Silbert | Grunt Style, Llc | www.gruntstyle.com",2021-11-20T20:27:16.905Z,,,,,,,,,,
+Cherise Beasley,Cherise,Beasley,"White Diamond Image Consulting, Llc",www.wdimageconsulting.com,cherise@wdimageconsulting.com,nominative@pro,Mrs,"White Diamond Image Consulting,",www.linkedin.com/company/white-diamond-image-consulting,Cherise,Cherise Beasley,Beasley,,www.wdimageconsulting.com,"Cherise Beasley | White Diamond Image Consulting, Llc | www.wdimageconsulting.com",2021-11-20T20:27:30.142Z,,,,,,,,,,
+Megan Elizabeth Cash,Megan,Cash,Lord & Lady Co.,www.lord-lady.com,megan@lord-lady.com,nominative@pro,Mrs,Lord & Lady,www.linkedin.com/company/lordandladyco,Megan,Megan Cash,Cash,,www.lord-lady.com,Megan Elizabeth Cash | Lord & Lady Co. | www.lord-lady.com,2021-11-20T20:27:36.622Z,,,,,,,,,,
+Danny Kassamali,Danny,Kassamali,Silky Socks,www.silkysocks.com,danny@silkysocks.com,catch-all@pro,Mr,Silky Socks,www.linkedin.com/company/silky-socks,Danny,Danny Kassamali,Kassamali,,www.silkysocks.com,Danny Kassamali | Silky Socks | www.silkysocks.com,2021-11-20T20:27:48.499Z,+1 714-644-8164,,,,,,,,,
+Jalal Elbasri,Jalal,Elbasri,Jaya Apparel Group LLC,www.jayallc.com,,,Mr,Jaya Apparel Group,www.linkedin.com/company/jaya-apparel-group-llc,Jalal,Jalal Elbasri,Elbasri,,www.jayallc.com,Jalal Elbasri | Jaya Apparel Group LLC | www.jayallc.com,2021-11-20T20:27:55.291Z,,No email found,,,,,,,,
+Larry Dyne,Larry,Dyne,Talon International Inc,www.talonzippers.com,,,Mr,Talon International,www.linkedin.com/company/talon-international-inc-,Larry,Larry Dyne,Dyne,,www.talonzippers.com,Larry Dyne | Talon International Inc | www.talonzippers.com,2021-11-20T20:28:06.502Z,,No email found,,,,,,,,
+Larry Laughlin,Larry,Laughlin,Donald's Uniform,www.donaldsuniform.com,,,Mr,Donald's Uniform,www.linkedin.com/company/donald's-uniform,Larry,Larry Laughlin,Laughlin,,www.donaldsuniform.com,Larry Laughlin | Donald's Uniform | www.donaldsuniform.com,2021-11-20T20:28:19.421Z,+65 17762723,No email found,,,,,,,,
+Mary Jo Bruno,Mary,Bruno,Mary Jo Bruno Inc.,www.maryjobruno.com,,,Mrs,Mary Jo Bruno,www.linkedin.com/company/mary-jo-bruno-inc.,Mary,Mary Bruno,Bruno,www.linkedin.com/in/mary-jo-bruno-15368317,www.maryjobruno.com,Mary Jo Bruno | Mary Jo Bruno Inc. | www.maryjobruno.com,2021-11-20T20:28:37.975Z,,No email found,,,,,,,,
+Johanna Cortez,Johanna,Cortez,EmbroidMe,www.embroidme-npb.com,johanna@embroidme-npb.com,nominative@pro,Mrs,Embroidme,www.linkedin.com/company/fully-promoted-palm-beach-gardens,Johanna,Johanna Cortez,Cortez,,www.embroidme-npb.com,Johanna Cortez | EmbroidMe | www.embroidme-npb.com,2021-11-20T20:28:49.980Z,+56 17759195,,,,,,,,,
+Elizabeth Trongone Layne,Elizabeth,Layne,"Trendly, Inc.",www.rebagg.com,,,Mrs,"Trendly,",www.linkedin.com/company/rebagg,Elizabeth,Elizabeth Layne,Layne,,www.rebagg.com,"Elizabeth Trongone Layne | Trendly, Inc. | www.rebagg.com",2021-11-20T20:28:57.032Z,,No email found,,,,,,,,
+Peter Papageorge,Peter,Papageorge,Culinary Classics,www.culinaryclassics.com,,,Mr,Culinary Classics,www.linkedin.com/company/culinary-classics,Peter,Peter Papageorge,Papageorge,,www.culinaryclassics.com,Peter Papageorge | Culinary Classics | www.culinaryclassics.com,2021-11-20T20:29:08.208Z,+1 773-843-4702,No email found,,,,,,,,
+Douglas Browning,Douglas,Browning,Sweaty Bands,www.sweatybands.com,,,Mr,Sweaty Bands,www.linkedin.com/company/apparel-accessory-distributor,Douglas,Douglas Browning,Browning,,www.sweatybands.com,Douglas Browning | Sweaty Bands | www.sweatybands.com,2021-11-20T20:29:26.671Z,+51 38711222,No email found,,,,,,,,
+Brooke English,Brooke,English,The Sock Drawer,www.sockdrawer.com,,,Mrs,The Sock Drawer,www.linkedin.com/company/sockdrawer,Brooke,Brooke English,English,,www.sockdrawer.com,Brooke English | The Sock Drawer | www.sockdrawer.com,2021-11-20T20:29:39.327Z,,No email found,,,,,,,,
+Yolanda Conner Smith,Yolanda,Smith,Elite Creations UK Ltd,www.elite-creations.co.uk,,,Mrs,Elite Creations Uk,www.linkedin.com/company/elite-creations,Yolanda,Yolanda Smith,Smith,,www.elite-creations.co.uk,Yolanda Conner Smith | Elite Creations UK Ltd | www.elite-creations.co.uk,2021-11-20T20:29:56.023Z,,No email found,,,,,,,,
+Leilani Luna,Leilani,Luna,"Hylete, Llc",www.hylete.com,lluna@hylete.com,nominative@pro,Mrs,"Hylete,",www.linkedin.com/company/hylete,Leilani,Leilani Luna,Luna,,www.hylete.com,"Leilani Luna | Hylete, Llc | www.hylete.com",2021-11-20T20:30:08.415Z,,,,,,,,,,
+Kerry Buckley,Kerry,Buckley,H & B Fashion Distributors,www.hbfashion.com.au,kerry@hbfashion.com.au,nominative@pro,Mrs,H & B Fashion Distributors,www.linkedin.com/company/h-&-b-fashion-distributors,Kerry,Kerry Buckley,Buckley,,www.hbfashion.com.au,Kerry Buckley | H & B Fashion Distributors | www.hbfashion.com.au,2021-11-20T20:30:20.217Z,+61 3 9420 1500,,,,,,,,,
+Lina Calabria,Lina,Calabria,Bellroy,www.bellroy.com,lina.calabria@bellroy.com,nominative@pro,Mrs,Bellroy,www.linkedin.com/company/bellroy,Lina,Lina Calabria,Calabria,www.linkedin.com/in/linacalabria,www.bellroy.com,Lina Calabria | Bellroy | www.bellroy.com,2021-11-20T20:30:26.896Z,,,47.91A,Vente à distance sur catalogue général,804641595,80464159500017,Traverse Victoria Albert,Le Cannet,06110,FR63804641595
+Coco Corral,Coco,Corral,lovinganvil,www.lovinganvil.com,coco@lovinganvil.com,nominative@pro,Mrs,Lovinganvil,www.linkedin.com/company/lovinganvil,Coco,Coco Corral,Corral,,www.lovinganvil.com,Coco Corral | lovinganvil | www.lovinganvil.com,2021-11-20T20:30:39.078Z,,,,,,,,,,
+Kati Leclair,Kati,Leclair,Blame Betty,www.blamebetty.com,kati@blamebetty.com,nominative@pro,Mrs,Blame Betty,www.linkedin.com/company/blame-betty,Kati,Kati Leclair,Leclair,,www.blamebetty.com,Kati Leclair | Blame Betty | www.blamebetty.com,2021-11-20T20:30:50.763Z,,,,,,,,,,
+Jerry Deboer,,,"Paul Fredrick MenStyle, Inc.",www.paulfredrick.com,jdeboer@paulfredrick.com,nominative@pro,Mr,"Paul Fredrick Menstyle,",www.linkedin.com/company/paul-fredrick-menstyle,Jerry,Jerry Deboer,Deboer,,www.paulfredrick.com,"Jerry Deboer | Paul Fredrick MenStyle, Inc. | www.paulfredrick.com",2021-11-20T20:31:02.094Z,+1 800-247-1417,,,,,,,,,

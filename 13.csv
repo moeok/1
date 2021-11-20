@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Brandon Kasey Alford,Brandon,Alford,Duff’s Fine Jewelry,www.duffsjewelry.com
-John Newman,John,Newman,Bibs2Bags,www.bibs2bags.com
-Traci Miller,Traci,Miller,Color 3 Embroidery Inc.,www.color3.com
-Dylan Louis Gilligan,Dylan,Gilligan,Upstate Merch,www.upstatemerch.com
-Arun Gupta,Arun,Gupta,"Grailed, Inc.",www.grailed.com
-Pascal Bensimon,Pascal,Bensimon,Pascal Bensimon Hair Salon,www.pascalbensimon.com
-Jeff Widdowson,Jeff,Widdowson,Luxenberg’s Jewelers,www.luxenbergs.com
-Arron Gober,Arron,Gober,Your Personal Tailor,www.yourpersonaltailor.com
-Paul Dodds,Paul,Dodds,Paul Dodds Jewelry,www.paulsworld.com
-Jim O'brien,Jim,O'brien,Cleobella,www.cleobella.com
-Anastasia Robinson,Anastasia,Robinson,Anna's Essentials,www.shopatae.com
-Ted Alvia,Ted,Alvia,Avail & Company,www.availco.com
-Girisha Chandraraj,Girisha,Chandraraj,"Elite Sportswear, L.P.",www.gkelite.com
-Yuri Moreira,Yuri,Moreira,Talon International Inc,www.talonzippers.com
-Megan Heacock,Megan,Heacock,Feed Projects Llc,www.feedprojects.com
-Galyn Gasparovic Bernard,Galyn,Bernard,"Primary Kids, Inc.",www.primary.com
-April Nagel,April,Nagel,Christian Bling,www.ctbling.com
-Alex Faherty,Alex,Faherty,"Faherty Brand, LLC",www.fahertybrand.com
-David Shockley,David,Shockley,Savile Row Custom Clothier & Shirtmaker,www.savilerowstl.com
-Jeff Plotner,,,Brackish,www.brackishbowties.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,phone,website,mailQuery,mailTimestamp,error
+Brandon Kasey Alford,Brandon,Alford,Duffï¿½s Fine Jewelry,www.duffsjewelry.com,brandon@duffsjewelry.com,nominative@pro,Mr,Duffs Fine Jewelry,www.linkedin.com/company/duff's-fine-jewelry,Brandon,Brandon Alford,Alford,www.linkedin.com/in/brandon-alford-1aa71987,+972 8994367,www.duffsjewelry.com,Brandon Kasey Alford | Duffï¿½s Fine Jewelry | www.duffsjewelry.com,2021-11-20T19:35:14.850Z,
+John Newman,John,Newman,Bibs2Bags,www.bibs2bags.com,john@bibs2bags.com,nominative@pro,Mr,Bibs2bags,www.linkedin.com/company/bibs2bags,John,John Newman,Newman,www.linkedin.com/in/john-newman-35226219,+20 3 5332572,www.bibs2bags.com,John Newman | Bibs2Bags | www.bibs2bags.com,2021-11-20T19:35:22.552Z,
+Traci Miller,Traci,Miller,Color 3 Embroidery Inc.,www.color3.com,traci@color3.com,nominative@pro,Mrs,Color 3 Embroidery,www.linkedin.com/company/524361,Traci,Traci Miller,Miller,www.linkedin.com/in/tracimiller,+1 800-858-0338,www.color3.com,Traci Miller | Color 3 Embroidery Inc. | www.color3.com,2021-11-20T19:35:34.770Z,
+Dylan Louis Gilligan,Dylan,Gilligan,Upstate Merch,www.upstatemerch.com,,,Mr,Upstate Merch,www.linkedin.com/company/upstate-merch,Dylan,Dylan Gilligan,Gilligan,,,www.upstatemerch.com,Dylan Louis Gilligan | Upstate Merch | www.upstatemerch.com,2021-11-20T19:35:41.889Z,No email found
+Arun Gupta,Arun,Gupta,"Grailed, Inc.",www.grailed.com,arun@grailed.com,nominative@pro,Mr,"Grailed,",www.linkedin.com/company/grailed,Arun,Arun Gupta,Gupta,www.linkedin.com/in/arungupta3,,www.grailed.com,"Arun Gupta | Grailed, Inc. | www.grailed.com",2021-11-20T19:35:47.860Z,
+Pascal Bensimon,Pascal,Bensimon,Pascal Bensimon Hair Salon,www.pascalbensimon.com,,,Mr,Pascal Bensimon Hair Salon,www.linkedin.com/company/pascal-bensimon-hair-salon,Pascal,Pascal Bensimon,Bensimon,,+1 404-364-0200,www.pascalbensimon.com,Pascal Bensimon | Pascal Bensimon Hair Salon | www.pascalbensimon.com,2021-11-20T19:36:01.340Z,No email found
+Jeff Widdowson,Jeff,Widdowson,Luxenbergï¿½s Jewelers,www.luxenbergs.com,jwiddowson@luxenbergs.com,nominative@pro,Mr,Luxenbergs Jewelers,,Jeff,Jeff Widdowson,Widdowson,,,www.luxenbergs.com,Jeff Widdowson | Luxenbergï¿½s Jewelers | www.luxenbergs.com,2021-11-20T19:36:13.878Z,
+Arron Gober,Arron,Gober,Your Personal Tailor,www.yourpersonaltailor.com,arron@yourpersonaltailor.com,nominative@pro,Mr,Your Personal Tailor,www.linkedin.com/company/your-personal-tailor,Arron,Arron Gober,Gober,,,www.yourpersonaltailor.com,Arron Gober | Your Personal Tailor | www.yourpersonaltailor.com,2021-11-20T19:36:25.402Z,
+Paul Dodds,Paul,Dodds,Paul Dodds Jewelry,www.paulsworld.com,paul@paulsworld.com,catch-all@pro,Mr,Paul Dodds Jewelry,,Paul,Paul Dodds,Dodds,,+81 65540420,www.paulsworld.com,Paul Dodds | Paul Dodds Jewelry | www.paulsworld.com,2021-11-20T19:36:31.923Z,
+Jim O'brien,Jim,O'brien,Cleobella,www.cleobella.com,jim@cleobella.com,nominative@pro,Mr,Cleobella,www.linkedin.com/company/cleobella,Jim,Jim O'Brien,O'Brien,,,www.cleobella.com,Jim O'brien | Cleobella | www.cleobella.com,2021-11-20T19:36:43.460Z,
+Anastasia Robinson,Anastasia,Robinson,Anna's Essentials,www.shopatae.com,,,Mrs,Anna's Essentials,,Anastasia,Anastasia Robinson,Robinson,www.linkedin.com/in/anastasia-robinson-95101447,,www.shopatae.com,Anastasia Robinson | Anna's Essentials | www.shopatae.com,2021-11-20T19:36:50.676Z,No email found
+Ted Alvia,Ted,Alvia,Avail & Company,www.availco.com,tedalvia@availco.com,nominative@pro,Mr,Avail & Company,www.linkedin.com/company/avail-&-company,Ted,Ted Alvia,Alvia,,+1 312-292-9347,www.availco.com,Ted Alvia | Avail & Company | www.availco.com,2021-11-20T19:37:02.726Z,
+Girisha Chandraraj,Girisha,Chandraraj,"Elite Sportswear, L.P.",www.gkelite.com,,,Mrs,"Elite Sportswear, L.p.",www.linkedin.com/company/gk-elite,Girisha,Girisha Chandraraj,Chandraraj,,+1 610-921-1469,www.gkelite.com,"Girisha Chandraraj | Elite Sportswear, L.P. | www.gkelite.com",2021-11-20T19:37:15.603Z,No email found
+Yuri Moreira,Yuri,Moreira,Talon International Inc,www.talonzippers.com,ymoreira@talonzippers.com,nominative@pro,Mr,Talon International,www.linkedin.com/company/talon-international-inc-,Yuri,Yuri Moreira,Moreira,,,www.talonzippers.com,Yuri Moreira | Talon International Inc | www.talonzippers.com,2021-11-20T19:37:22.909Z,
+Megan Heacock,Megan,Heacock,Feed Projects Llc,www.feedprojects.com,megan@feedprojects.com,nominative@pro,Mrs,Feed Projects,www.linkedin.com/company/feed-projects,Megan,Megan Heacock,Heacock,www.linkedin.com/in/megan-heacock,+1 929-397-2716,www.feedprojects.com,Megan Heacock | Feed Projects Llc | www.feedprojects.com,2021-11-20T19:37:29.210Z,
+Galyn Gasparovic Bernard,Galyn,Bernard,"Primary Kids, Inc.",www.primary.com,galyn@primary.com,nominative@pro,Mrs,"Primary Kids,",www.linkedin.com/company/primary-com,Galyn,Galyn Bernard,Bernard,,+1 844-435-5675,www.primary.com,"Galyn Gasparovic Bernard | Primary Kids, Inc. | www.primary.com",2021-11-20T19:38:39.218Z,
+April Nagel,April,Nagel,Christian Bling,www.ctbling.com,a.nagel@ctbling.com,nominative@pro,Mrs,Christian Bling,www.linkedin.com/company/ctbling,April,April Nagel,Nagel,,,www.ctbling.com,April Nagel | Christian Bling | www.ctbling.com,2021-11-20T19:38:51.990Z,
+Alex Faherty,Alex,Faherty,"Faherty Brand, LLC",www.fahertybrand.com,alex@fahertybrand.com,nominative@pro,Mr,"Faherty Brand,",www.linkedin.com/company/faherty-brand,Alex,Alex Faherty,Faherty,,,www.fahertybrand.com,"Alex Faherty | Faherty Brand, LLC | www.fahertybrand.com",2021-11-20T19:38:58.765Z,
+David Shockley,David,Shockley,Savile Row Custom Clothier & Shirtmaker,www.savilerowstl.com,david@savilerowstl.com,nominative@pro,Mr,Savile Row Custom Clothier & Shirtmaker,www.linkedin.com/company/savile-row-custom-clothier,David,David Shockley,Shockley,,,www.savilerowstl.com,David Shockley | Savile Row Custom Clothier & Shirtmaker | www.savilerowstl.com,2021-11-20T19:39:04.919Z,
+Jeff Plotner,,,Brackish,www.brackishbowties.com,jeff@brackishbowties.com,nominative@pro,Mr,Brackish,www.linkedin.com/company/brackish-bow-ties,Jeff,Jeff Plotner,Plotner,,+84 34698833,www.brackishbowties.com,Jeff Plotner | Brackish | www.brackishbowties.com,2021-11-20T19:39:17.689Z,

@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Larry Bruno,Larry,Bruno,Bruno Fine Jewelers Diamonds By the Waterfall,www.brunojewelry.com
-Joel Cohen,Joel,Cohen,"Crystal Boutique, Inc",www.crystalboutique.com
-Stacia Graffia,Stacia,Graffia,Electric Yoga,www.electricyoga.com
-Dhiren Nautiyal,Dhiren,Nautiyal,Gnn International,www.gnnusa.com
-Marit Huisman,Marit,Huisman,Rapha,www.rapha.cc
-Vann Holland,Vann,Holland,Revolution Riche,www.revolutionriche.com
-Sonia Denise Roberts,Sonia,Roberts,"Landau Uniforms, Inc.",www.landau.com
-Trisha Stone,Trisha,Stone,Bad Kitty Inc.,www.badkitty.com
-Stephanie Bohbot,Stephanie,Bohbot,Electric Yoga,www.electricyoga.com
-Soham Dave,Soham,Dave,Eco Artisan Corp,www.sohamdave.com
-Mike Weiner,Mike,Weiner,"Distinctive Designs 21, Inc",www.distinctivedesigns21.com
-Don Aramony,Don,Aramony,D F R Apparel Company Inc,www.dfrenterprises.com
-Emily Keneally,Emily,Keneally,Alice Walk,www.alicewalk.com
-Alexandra Cooley,Alexandra,Cooley,Dennys Brands,www.dennys.co.uk
-Alicia Taylor,Alicia,Taylor,Be Your Own Spot,www.beyourownspot.com
-Robert Roope,Robert,Roope,Black Eyewear,www.blackeyewear.com
-Harry Hughes,Harry,Hughes,Portwest Llc,www.portwest.com
-Mark Dangelo,Mark,Dangelo,Twins Enterprise,www.nineteen47.com
-Erica Tanov,Erica,Tanov,Ecotech Solutions,www.ecotech-solutions.com
-Cesar Cruz,,,Sebastian Cruz Couture,www.sebastiancruzcouture.com
+First Last,First,Last,Company,Domain,civility,company,first_name,full_name,last_name,website,error,mailQuery,mailTimestamp,email,qualification,company_linkedin,phone,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat,company_results,company_turnover,linkedin
+Larry Bruno,Larry,Bruno,Bruno Fine Jewelers Diamonds By the Waterfall,www.brunojewelry.com,Mr,Bruno Fine Jewelers Diamonds By The Waterfall,Larry,Larry Bruno,Bruno,www.brunojewelry.com,No email found,Larry Bruno | Bruno Fine Jewelers Diamonds By the Waterfall | www.brunojewelry.com,2021-11-20T20:30:35.765Z,,,,,,,,,,,,,,,,
+Joel Cohen,Joel,Cohen,"Crystal Boutique, Inc",www.crystalboutique.com,Mr,"Crystal Boutique,",Joel,Joel Cohen,Cohen,www.crystalboutique.com,No email found,"Joel Cohen | Crystal Boutique, Inc | www.crystalboutique.com",2021-11-20T20:30:51.605Z,,,,,,,,,,,,,,,,
+Stacia Graffia,Stacia,Graffia,Electric Yoga,www.electricyoga.com,Mrs,Electric Yoga,Stacia,Stacia Graffia,Graffia,www.electricyoga.com,,Stacia Graffia | Electric Yoga | www.electricyoga.com,2021-11-20T20:30:57.629Z,stacia@electricyoga.com,nominative@pro,www.linkedin.com/company/electric-yoga,+1 213-550-2950,,,,,,,,,,,,
+Dhiren Nautiyal,Dhiren,Nautiyal,Gnn International,www.gnnusa.com,Mr,Gnn International,Dhiren,Dhiren Nautiyal,Nautiyal,www.gnnusa.com,,Dhiren Nautiyal | Gnn International | www.gnnusa.com,2021-11-20T20:31:03.066Z,dhiren@gnnusa.com,nominative@pro,www.linkedin.com/company/gnn-international,+1 719-302-4129,,,,,,,,,,,,
+Marit Huisman,Marit,Huisman,Rapha,www.rapha.cc,Mrs,Rapha,Marit,Marit Huisman,Huisman,www.rapha.cc,,Marit Huisman | Rapha | www.rapha.cc,2021-11-20T20:31:13.968Z,marit.huisman@rapha.cc,nominative@pro,www.linkedin.com/company/rapha-racing-limited,+44 20 7485 5000,68.20B,Location de terrains et d'autres biens immobiliers,Unités non employeuses,423966746,42396674600020,Route de Genestelle,Vallées-d'Antraigues-Asperjoc,07530,FR69423966746,,,
+Vann Holland,Vann,Holland,Revolution Riche,www.revolutionriche.com,Mr,Revolution Riche,Vann,Vann Holland,Holland,www.revolutionriche.com,,Vann Holland | Revolution Riche | www.revolutionriche.com,2021-11-20T20:31:26.041Z,vholland@revolutionriche.com,nominative@pro,www.linkedin.com/company/revolution-riche,,,,,,,,,,,,,
+Sonia Denise Roberts,Sonia,Roberts,"Landau Uniforms, Inc.",www.landau.com,Mrs,"Landau Uniforms,",Sonia,Sonia Roberts,Roberts,www.landau.com,No email found,"Sonia Denise Roberts | Landau Uniforms, Inc. | www.landau.com",2021-11-20T20:31:36.512Z,,,www.linkedin.com/company/landau-uniforms,,,,,,,,,,,,,
+Trisha Stone,Trisha,Stone,Bad Kitty Inc.,www.badkitty.com,Mrs,Bad Kitty,Trisha,Trisha Stone,Stone,www.badkitty.com,No email found,Trisha Stone | Bad Kitty Inc. | www.badkitty.com,2021-11-20T20:31:47.500Z,,,www.linkedin.com/company/bad-kitty-exotic-wear,,70.21Z,Conseil en relations publiques et communication,,834793234,83479323400016,17 Rue de la Plaine,Paris,75020,FR55834793234,7135,9300,
+Stephanie Bohbot,Stephanie,Bohbot,Electric Yoga,www.electricyoga.com,Mrs,Electric Yoga,Stephanie,Stephanie Bohbot,Bohbot,www.electricyoga.com,,Stephanie Bohbot | Electric Yoga | www.electricyoga.com,2021-11-20T20:31:59.857Z,stephanie@electricyoga.com,nominative@pro,www.linkedin.com/company/electric-yoga,+1 213-550-2950,,,,,,,,,,,,
+Soham Dave,Soham,Dave,Eco Artisan Corp,www.sohamdave.com,Mr,Eco Artisan,Soham,Soham Dave,Dave,www.sohamdave.com,,Soham Dave | Eco Artisan Corp | www.sohamdave.com,2021-11-20T20:32:06.154Z,soham@sohamdave.com,nominative@pro,www.linkedin.com/company/soham-dave,,43.22B,Travaux d'installation d'équipements thermiques et de climatisation,,879729416,87972941600013,21 Rue Rodier,Paris,75009,FR38879729416,,,
+Mike Weiner,Mike,Weiner,"Distinctive Designs 21, Inc",www.distinctivedesigns21.com,Mr,"Distinctive Designs 21,",Mike,Mike Weiner,Weiner,www.distinctivedesigns21.com,,"Mike Weiner | Distinctive Designs 21, Inc | www.distinctivedesigns21.com",2021-11-20T20:32:12.051Z,mikew@distinctivedesigns21.com,nominative@pro,www.linkedin.com/company/distinctive-designs-21-inc.,,,,,,,,,,,,,www.linkedin.com/in/mike-weiner-6a5b946
+Don Aramony,Don,Aramony,D F R Apparel Company Inc,www.dfrenterprises.com,don,D F R Apparel Company,,Aramony,Aramony,www.dfrenterprises.com,No email found,Don Aramony | D F R Apparel Company Inc | www.dfrenterprises.com,2021-11-20T20:32:17.510Z,,,,,,,,,,,,,,,,
+Emily Keneally,Emily,Keneally,Alice Walk,www.alicewalk.com,Mrs,Alice Walk,Emily,Emily Keneally,Keneally,www.alicewalk.com,,Emily Keneally | Alice Walk | www.alicewalk.com,2021-11-20T20:32:27.997Z,emily@alicewalk.com,nominative@pro,www.linkedin.com/company/alice-walk,+1 857-496-0047,,,,,,,,,,,,
+Alexandra Cooley,Alexandra,Cooley,Dennys Brands,www.dennys.co.uk,Mrs,Dennys Brands,Alexandra,Alexandra Cooley,Cooley,www.dennys.co.uk,,Alexandra Cooley | Dennys Brands | www.dennys.co.uk,2021-11-20T20:32:39.126Z,alexandra@dennys.co.uk,nominative@pro,www.linkedin.com/company/denny's-uniforms,+44 1372 377904,,,,,,,,,,,,
+Alicia Taylor,Alicia,Taylor,Be Your Own Spot,www.beyourownspot.com,Mrs,Be Your Own Spot,Alicia,Alicia Taylor,Taylor,www.beyourownspot.com,,Alicia Taylor | Be Your Own Spot | www.beyourownspot.com,2021-11-20T20:32:56.218Z,alicia@beyourownspot.com,nominative@pro,www.linkedin.com/company/spot-on-be-your-own-spot,+81 76148293,,,,,,,,,,,,
+Robert Roope,Robert,Roope,Black Eyewear,www.blackeyewear.com,Mr,Black Eyewear,Robert,Robert Roope,Roope,www.blackeyewear.com,,Robert Roope | Black Eyewear | www.blackeyewear.com,2021-11-20T20:33:02.407Z,robert@blackeyewear.com,nominative@pro,www.linkedin.com/company/black-eyewear,+44 1727 761048,,,,,,,,,,,,
+Harry Hughes,Harry,Hughes,Portwest Llc,www.portwest.com,Mr,Portwest,Harry,Harry Hughes,Hughes,www.portwest.com,,Harry Hughes | Portwest Llc | www.portwest.com,2021-11-20T20:33:29.911Z,harry@portwest.com,nominative@pro,www.linkedin.com/company/portwest,+44 1709 894575,46.42Z,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,Unités non employeuses,487865412,48786541200018,,,,FR11487865412,,,
+Mark Dangelo,Mark,Dangelo,Twins Enterprise,www.nineteen47.com,Mr,Twins Enterprise,Mark,Mark Dangelo,Dangelo,www.nineteen47.com,No email found,Mark Dangelo | Twins Enterprise | www.nineteen47.com,2021-11-20T20:33:47.385Z,,,www.linkedin.com/company/twins-enterprise,,,,,,,,,,,,,
+Erica Tanov,Erica,Tanov,Ecotech Solutions,www.ecotech-solutions.com,Mrs,Ecotech Solutions,Erica,Erica Tanov,Tanov,www.ecotech-solutions.com,No email found,Erica Tanov | Ecotech Solutions | www.ecotech-solutions.com,2021-11-20T20:34:08.852Z,,,www.linkedin.com/company/erica-tanov,+20 2 1111423,,,,,,,,,,,,
+Cesar Cruz,,,Sebastian Cruz Couture,www.sebastiancruzcouture.com,Mr,Sebastian Cruz Couture,Cesar,Cesar Cruz,Cruz,www.sebastiancruzcouture.com,,Cesar Cruz | Sebastian Cruz Couture | www.sebastiancruzcouture.com,2021-11-20T20:34:26.870Z,ccruz@sebastiancruzcouture.com,nominative@pro,www.linkedin.com/company/sebastian-cruz-couture,+855 7232653,,,,,,,,,,,,

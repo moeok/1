@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Alex Teih,Alex,Teih,Alex Teih,www.alexteih.com
-Jason Bolt,Jason,Bolt,Revant LLC,www.revantoptics.com
-Menchu Dominicis,Menchu,Dominicis,J.A. Uniforms,www.jauniforms.com
-Phil Cody,Phil,Cody,Phoenix Footwear Group Inc,www.phoenixfootwear.com
-Laura Penna Shaw,Laura,Shaw,"Salon Capri, Inc.",www.saloncapri.com
-Aleka Ernst,Aleka,Ernst,"ACE Custom Embroidery & Design, Inc.",www.aceembroideryinc.com
-Angie Kadilliu,Angie,Kadilliu,"Stylitics, Inc.",www.stylitics.com
-Manne Gramenius,Manne,Gramenius,Daniel Wellington Inc,www.danielwellington.com
-Ric Cabot,Ric,Cabot,"Cabot Hosiery Mills, Inc.",www.darntough.com
-Mary Campbell,Mary,Campbell,"Kid to Kid Franchise System, Inc.",www.kidtokid.com
-Toby Liu,Toby,Liu,"Vatrad Group Co., Ltd",www.vatrad.com
-Marco Brülisauer,Marco,Brülisauer,Bruli,www.bruli.com
-Scott Shapiro,Scott,Shapiro,Syd Jerome Mens Wear,www.sydjerome.com
-Isaac Ross,Isaac,Ross,Solid & Striped LLC,www.solidandstriped.com
-Jessica Doescher,Jessica,Doescher,"JJR Clothing, Inc.",www.bungalowclothing.com
-Andy Ar,Andy,Ar,Hass Libre,www.hasslibre.com
-Francesca Moscone,Francesca,Moscone,"Marina Moscone, Llc",www.marinamoscone.com
-Anthony Staschiak,Anthony,Staschiak,Tru Spec,www.truspec.com
-Barbara Hardinge,Barbara,Hardinge,BDA London,www.bdalondon.com
-Michelle Wenke,,,Monrow Inc,www.monrowattire.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,website,mailQuery,mailTimestamp,naf5_code,naf5_des,nb_employees,phone,siren,siret,siret_address,siret_city,siret_zip,vat,error
+Alex Teih,Alex,Teih,Alex Teih,www.alexteih.com,alexteih@alexteih.net,nominative@pro,Mr,Alex Teih,www.linkedin.com/company/alex-teih,Alex,Alex Teih,Teih,www.linkedin.com/in/alex-teih-a871591a0,www.alexteih.com,Alex Teih | Alex Teih | www.alexteih.com,2021-11-20T20:17:24.616Z,,,,,,,,,,,
+Jason Bolt,Jason,Bolt,Revant LLC,www.revantoptics.com,jb@revantoptics.com,nominative@pro,Mr,Revant,www.linkedin.com/company/revant-optics,Jason,Jason Bolt,Bolt,www.linkedin.com/in/jasonbolt,www.revantoptics.com,Jason Bolt | Revant LLC | www.revantoptics.com,2021-11-20T20:17:38.516Z,43.34Z,Travaux de peinture et vitrerie,1-2,+95 25210,503954281,50395428100039,29 Rue Spinoza,Choisy-le-Roi,94600,FR00503954281,
+Menchu Dominicis,Menchu,Dominicis,J.A. Uniforms,www.jauniforms.com,menchu@jauniforms.com,nominative@pro,,J.a. Uniforms,www.linkedin.com/company/ja-uniforms,,Menchu Dominicis,Menchu Dominicis,,www.jauniforms.com,Menchu Dominicis | J.A. Uniforms | www.jauniforms.com,2021-11-20T20:17:45.178Z,,,,+1 888-252-4411,,,,,,,
+Phil Cody,Phil,Cody,Phoenix Footwear Group Inc,www.phoenixfootwear.com,,,Mr,Phoenix Footwear Group,www.linkedin.com/company/phoenix-footwear-group,Phil,Phil Cody,Cody,,www.phoenixfootwear.com,Phil Cody | Phoenix Footwear Group Inc | www.phoenixfootwear.com,2021-11-20T20:18:02.262Z,,,,+1 760-602-9688,,,,,,,No email found
+Laura Penna Shaw,Laura,Shaw,"Salon Capri, Inc.",www.saloncapri.com,laura@saloncapri.com,nominative@pro,Mrs,"Salon Capri,",www.linkedin.com/company/salon-capri,Laura,Laura Shaw,Shaw,,www.saloncapri.com,"Laura Penna Shaw | Salon Capri, Inc. | www.saloncapri.com",2021-11-20T20:18:14.652Z,,,,+1 617-236-0020,,,,,,,
+Aleka Ernst,Aleka,Ernst,"ACE Custom Embroidery & Design, Inc.",www.aceembroideryinc.com,aleka@aceembroideryinc.com,nominative@pro,Mrs,"Ace Custom Embroidery & Design,",www.linkedin.com/company/ace-custom-embroidery-&-design-inc.,Aleka,Aleka Ernst,Ernst,,www.aceembroideryinc.com,"Aleka Ernst | ACE Custom Embroidery & Design, Inc. | www.aceembroideryinc.com",2021-11-20T20:18:27.542Z,,,,+63 9041226,,,,,,,
+Angie Kadilliu,Angie,Kadilliu,"Stylitics, Inc.",www.stylitics.com,angie@stylitics.com,nominative@pro,Mrs,"Stylitics,",www.linkedin.com/company/stylitics,Angie,Angie Kadilliu,Kadilliu,,www.stylitics.com,"Angie Kadilliu | Stylitics, Inc. | www.stylitics.com",2021-11-20T20:18:39.654Z,,,,,,,,,,,
+Manne Gramenius,Manne,Gramenius,Daniel Wellington Inc,www.danielwellington.com,manne.gramenius@danielwellington.com,nominative@pro,,Daniel Wellington,www.linkedin.com/company/daniel-wellington-ab,Manne,Manne Gramenius,Gramenius,,www.danielwellington.com,Manne Gramenius | Daniel Wellington Inc | www.danielwellington.com,2021-11-20T20:18:58.772Z,46.48Z,Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie,,+33 1 42 77 13 41,800412892,80041289200013,Rue des SuÃ¨des,Chazot,25430,FR02800412892,
+Ric Cabot,Ric,Cabot,"Cabot Hosiery Mills, Inc.",www.darntough.com,rcabot@darntough.com,nominative@pro,Mr,"Cabot Hosiery Mills,",www.linkedin.com/company/darn-tough-vermont,Ric,Ric Cabot,Cabot,,www.darntough.com,"Ric Cabot | Cabot Hosiery Mills, Inc. | www.darntough.com",2021-11-20T20:19:11.460Z,,,,+1 877-327-6883,,,,,,,
+Mary Campbell,Mary,Campbell,"Kid to Kid Franchise System, Inc.",www.kidtokid.com,,,Mrs,"Kid To Kid Franchise System,",www.linkedin.com/company/kid-to-kid,Mary,Mary Campbell,Campbell,,www.kidtokid.com,"Mary Campbell | Kid to Kid Franchise System, Inc. | www.kidtokid.com",2021-11-20T20:19:28.887Z,,,,,,,,,,,No email found
+Toby Liu,Toby,Liu,"Vatrad Group Co., Ltd",www.vatrad.com,toby@vatrad.com,nominative@pro,Mr,"Vatrad Group Co.,",www.linkedin.com/company/vatrad-group-co-ltd,Toby,Toby Liu,Liu,www.linkedin.com/in/toby-liu-1b34033b,www.vatrad.com,"Toby Liu | Vatrad Group Co., Ltd | www.vatrad.com",2021-11-20T20:19:35.791Z,,,,,,,,,,,
+Marco Brï¿½lisauer,Marco,Brï¿½lisauer,Bruli,www.bruli.com,,,Mr,Bruli,www.linkedin.com/company/bruli,Marco,Marco Brlisauer,Brlisauer,,www.bruli.com,Marco Brï¿½lisauer | Bruli | www.bruli.com,2021-11-20T20:19:47.353Z,56.10A,Restauration traditionnelle,UnitÃ©s non employeuses,+41 91 640 64 40,481620912,48162091200024,Boulevard Denis Papin,Carcassonne,11000,FR24481620912,No email found
+Scott Shapiro,Scott,Shapiro,Syd Jerome Mens Wear,www.sydjerome.com,scott@sydjerome.com,nominative@pro,Mr,Syd Jerome Mens Wear,www.linkedin.com/company/syd-jerome,Scott,Scott Shapiro,Shapiro,,www.sydjerome.com,Scott Shapiro | Syd Jerome Mens Wear | www.sydjerome.com,2021-11-20T20:19:54.438Z,,,,+1 312-346-0333,,,,,,,
+Isaac Ross,Isaac,Ross,Solid & Striped LLC,www.solidandstriped.com,isaac@solidandstriped.com,nominative@pro,Mr,Solid & Striped,www.linkedin.com/company/solid-&-striped,Isaac,Isaac Ross,Ross,,www.solidandstriped.com,Isaac Ross | Solid & Striped LLC | www.solidandstriped.com,2021-11-20T20:20:11.050Z,,,,,,,,,,,
+Jessica Doescher,Jessica,Doescher,"JJR Clothing, Inc.",www.bungalowclothing.com,jessica@bungalowclothing.com,nominative@pro,Mrs,"Jjr Clothing,",www.linkedin.com/company/bungalow-clothing,Jessica,Jessica Doescher,Doescher,,www.bungalowclothing.com,"Jessica Doescher | JJR Clothing, Inc. | www.bungalowclothing.com",2021-11-20T20:20:18.087Z,,,,,,,,,,,
+Andy Ar,Andy,Ar,Hass Libre,www.hasslibre.com,,,Mr,Hass Libre,www.linkedin.com/company/hass-libre,Andy,Andy Ar,Ar,,www.hasslibre.com,Andy Ar | Hass Libre | www.hasslibre.com,2021-11-20T20:20:24.300Z,,,,,,,,,,,No email found
+Francesca Moscone,Francesca,Moscone,"Marina Moscone, Llc",www.marinamoscone.com,francesca@marinamoscone.com,nominative@pro,Mrs,"Marina Moscone,",www.linkedin.com/company/marina-moscone,Francesca,Francesca Moscone,Moscone,,www.marinamoscone.com,"Francesca Moscone | Marina Moscone, Llc | www.marinamoscone.com",2021-11-20T20:20:41.034Z,,,,+1 917-265-8471,,,,,,,
+Anthony Staschiak,Anthony,Staschiak,Tru Spec,www.truspec.com,,,Mr,Tru Spec,www.linkedin.com/company/tru-spec-by-atlanco,Anthony,Anthony Staschiak,Staschiak,www.linkedin.com/in/anthony-staschiak-7b13272a,www.truspec.com,Anthony Staschiak | Tru Spec | www.truspec.com,2021-11-20T20:20:48.068Z,,,,+1 844-256-8435,,,,,,,No email found
+Barbara Hardinge,Barbara,Hardinge,BDA London,www.bdalondon.com,barbara@bdalondon.com,nominative@pro,Mrs,Bda London,www.linkedin.com/company/bda-london,Barbara,Barbara Hardinge,Hardinge,www.linkedin.com/in/barbara-hardinge-8079098,www.bdalondon.com,Barbara Hardinge | BDA London | www.bdalondon.com,2021-11-20T20:20:59.348Z,,,,,,,,,,,
+Michelle Wenke,,,Monrow Inc,www.monrowattire.com,,,Mrs,Monrow,www.linkedin.com/company/monrow,Michelle,Michelle Wenke,Wenke,,www.monrowattire.com,Michelle Wenke | Monrow Inc | www.monrowattire.com,2021-11-20T20:21:10.753Z,,,,,,,,,,,No email found

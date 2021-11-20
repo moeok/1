@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Greg Friend,Greg,Friend,Venture Heat®,www.ventureheat.com
-Ross Ulrich,Ross,Ulrich,"Spinning Spools Embroidery, Inc.",www.spinningspools.com
-Richard Levy,Richard,Levy,"The Levy Group, Inc.",www.thelevygroupinc.com
-Kathryn Mccarron,Kathryn,Mccarron,Kathryn McCarron,www.kathrynmccarron.com
-Charles Gorra,Charles,Gorra,"Trendly, Inc.",www.rebagg.com
-Chuck Kelly,Chuck,Kelly,Kelgraphics,www.kelgraphics.com
-Alexander Aquino,Alexander,Aquino,Barnabas Clothing Co.,www.barnabasclothing.com
-Linda Coelho,Linda,Coelho,"SportsScarf, LLC",www.sportsscarf.com
-Alan Sidel,Alan,Sidel,"Don's Group Attire, Inc.",www.donsgroupattire.com
-Jens Nicolaysen,Jens,Nicolaysen,"Shinesty, Inc.",www.shinesty.com
-Brianna Mallory,Brianna,Mallory,The Sock Drawer,www.sockdrawer.com
-Troels Engholm,Troels,Engholm,Lines Of Denmark Inc.,www.linesofdenmark.com
-Deirdre Quinn,Deirdre,Quinn,Lafayette 148 New York Inc.,www.lafayette148ny.com
-Charles Mazzone,Charles,Mazzone,Out Of Print,www.outofprintclothing.com
-Brenna Boyce Lewis,Brenna,Lewis,Brooklyn Tailors,www.brooklyn-tailors.com
-Nadia Boujarwah,Nadia,Boujarwah,Dia&Co,www.dia.co
-Julian Chang,Julian,Chang,Julian Chang,www.julianchang.com
-David Gormley,David,Gormley,"Zephyr Graf-X, Inc.",www.zhats.com
-Ashley Weber Aron,Ashley,Aron,"Stance, Inc.",www.stance.com
-Carolyn Sarnecki,,,"HippyTree, LLC",www.hippytree.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,phone,website,mailQuery,mailTimestamp,linkedin,error,naf5_code,siren,siret,siret_address,siret_city,siret_zip,vat,naf5_des,nb_employees
+Greg Friend,Greg,Friend,Venture Heatï¿½,www.ventureheat.com,greg@ventureheat.com,nominative@pro,Mr,Venture Heat,www.linkedin.com/company/ventureheat,Greg,Greg Friend,Friend,+1 877-261-9477,www.ventureheat.com,Greg Friend | Venture Heatï¿½ | www.ventureheat.com,2021-11-20T19:45:46.789Z,,,,,,,,,,,
+Ross Ulrich,Ross,Ulrich,"Spinning Spools Embroidery, Inc.",www.spinningspools.com,ross@spinningspools.com,nominative@pro,Mr,"Spinning Spools Embroidery,",www.linkedin.com/company/spinning-spools-embroidery,Ross,Ross Ulrich,Ulrich,,www.spinningspools.com,"Ross Ulrich | Spinning Spools Embroidery, Inc. | www.spinningspools.com",2021-11-20T19:45:52.721Z,,,,,,,,,,,
+Richard Levy,Richard,Levy,"The Levy Group, Inc.",www.thelevygroupinc.com,richard@thelevygroupinc.com,nominative@pro,Mr,"The Levy Group,",www.linkedin.com/company/the-levy-group,Richard,Richard Levy,Levy,+1 212-398-0707,www.thelevygroupinc.com,"Richard Levy | The Levy Group, Inc. | www.thelevygroupinc.com",2021-11-20T19:46:09.059Z,,,,,,,,,,,
+Kathryn Mccarron,Kathryn,Mccarron,Kathryn McCarron,www.kathrynmccarron.com,kathryn@kathrynmccarron.com,nominative@pro,Mrs,Kathryn Mccarron,www.linkedin.com/company/kathryn-mccarron,Kathryn,Kathryn Mccarron,Mccarron,,www.kathrynmccarron.com,Kathryn Mccarron | Kathryn McCarron | www.kathrynmccarron.com,2021-11-20T19:46:15.413Z,www.linkedin.com/in/kathryn-mccarron-014a607,,,,,,,,,,
+Charles Gorra,Charles,Gorra,"Trendly, Inc.",www.rebagg.com,charles@rebagg.com,nominative@pro,Mr,"Trendly,",www.linkedin.com/company/rebagg,Charles,Charles Gorra,Gorra,,www.rebagg.com,"Charles Gorra | Trendly, Inc. | www.rebagg.com",2021-11-20T19:46:27.614Z,,,,,,,,,,,
+Chuck Kelly,Chuck,Kelly,Kelgraphics,www.kelgraphics.com,chuck@kelgraphics.com,nominative@pro,Mr,Kelgraphics,www.linkedin.com/company/kelgraphics,Chuck,Chuck Kelly,Kelly,+231 7752313,www.kelgraphics.com,Chuck Kelly | Kelgraphics | www.kelgraphics.com,2021-11-20T19:46:38.852Z,www.linkedin.com/in/chuck-kelly-6341271b,,,,,,,,,,
+Alexander Aquino,Alexander,Aquino,Barnabas Clothing Co.,www.barnabasclothing.com,,,Mr,Barnabas Clothing,www.linkedin.com/company/barnabas-clothing-co-,Alexander,Alexander Aquino,Aquino,,www.barnabasclothing.com,Alexander Aquino | Barnabas Clothing Co. | www.barnabasclothing.com,2021-11-20T19:46:50.752Z,www.linkedin.com/in/alexander-aquino-5b687b43,No email found,,,,,,,,,
+Linda Coelho,Linda,Coelho,"SportsScarf, LLC",www.sportsscarf.com,lcoelho@sportsscarf.com,nominative@pro,Mrs,"Sportsscarf,",www.linkedin.com/company/sportsscarf,Linda,Linda Coelho,Coelho,+1 877-507-2273,www.sportsscarf.com,"Linda Coelho | SportsScarf, LLC | www.sportsscarf.com",2021-11-20T19:47:02.680Z,,,,,,,,,,,
+Alan Sidel,Alan,Sidel,"Don's Group Attire, Inc.",www.donsgroupattire.com,alan@donsgroupattire.com,nominative@pro,Mr,"Don's Group Attire,",www.linkedin.com/company/don's-group-attire,Alan,Alan Sidel,Sidel,+1 206-767-0366,www.donsgroupattire.com,"Alan Sidel | Don's Group Attire, Inc. | www.donsgroupattire.com",2021-11-20T19:47:20.746Z,,,,,,,,,,,
+Jens Nicolaysen,Jens,Nicolaysen,"Shinesty, Inc.",www.shinesty.com,jens@shinesty.com,nominative@pro,Mr,"Shinesty,",www.linkedin.com/company/shinesty,Jens,Jens Nicolaysen,Nicolaysen,+1 720-323-2325,www.shinesty.com,"Jens Nicolaysen | Shinesty, Inc. | www.shinesty.com",2021-11-20T19:47:26.481Z,www.linkedin.com/in/jensnicolaysen,,,,,,,,,,
+Brianna Mallory,Brianna,Mallory,The Sock Drawer,www.sockdrawer.com,brianna@sockdrawer.com,nominative@pro,Mrs,The Sock Drawer,www.linkedin.com/company/sockdrawer,Brianna,Brianna Mallory,Mallory,,www.sockdrawer.com,Brianna Mallory | The Sock Drawer | www.sockdrawer.com,2021-11-20T19:47:31.956Z,,,,,,,,,,,
+Troels Engholm,Troels,Engholm,Lines Of Denmark Inc.,www.linesofdenmark.com,troels.engholm@linesofdenmark.com,nominative@pro,Mr,Lines Of Denmark,www.linkedin.com/company/lines-of-denmark,Troels,Troels Engholm,Engholm,,www.linesofdenmark.com,Troels Engholm | Lines Of Denmark Inc. | www.linesofdenmark.com,2021-11-20T19:47:37.899Z,www.linkedin.com/in/troels-engholm-4989a83a,,,,,,,,,,
+Deirdre Quinn,Deirdre,Quinn,Lafayette 148 New York Inc.,www.lafayette148ny.com,,,Mrs,Lafayette 148 New York,www.linkedin.com/company/lafayette-148-new-york,Deirdre,Deirdre Quinn,Quinn,+1 888-448-1488,www.lafayette148ny.com,Deirdre Quinn | Lafayette 148 New York Inc. | www.lafayette148ny.com,2021-11-20T19:47:43.555Z,,No email found,,,,,,,,,
+Charles Mazzone,Charles,Mazzone,Out Of Print,www.outofprintclothing.com,charles@outofprintclothing.com,catch-all@pro,Mr,Out Of Print,www.linkedin.com/company/out-of-print-clothing,Charles,Charles Mazzone,Mazzone,,www.outofprintclothing.com,Charles Mazzone | Out Of Print | www.outofprintclothing.com,2021-11-20T19:47:49.772Z,,,,,,,,,,,
+Brenna Boyce Lewis,Brenna,Lewis,Brooklyn Tailors,www.brooklyn-tailors.com,brenna@brooklyn-tailors.com,nominative@pro,Mrs,Brooklyn Tailors,www.linkedin.com/company/brooklyn-tailors,Brenna,Brenna Lewis,Lewis,,www.brooklyn-tailors.com,Brenna Boyce Lewis | Brooklyn Tailors | www.brooklyn-tailors.com,2021-11-20T19:48:00.342Z,www.linkedin.com/in/brenna-lewis-033004a,,,,,,,,,,
+Nadia Boujarwah,Nadia,Boujarwah,Dia&Co,www.dia.co,nadia@dia.com,nominative@pro,Mrs,Dia&co,www.linkedin.com/company/dia&co,Nadia,Nadia Boujarwah,Boujarwah,,www.dia.co,Nadia Boujarwah | Dia&Co | www.dia.co,2021-11-20T19:48:12.381Z,,,58..12,780075552,78007555200015,Impasse des Tronchets,Sallanches,74700,FR12780075552,,
+Julian Chang,Julian,Chang,Julian Chang,www.julianchang.com,julian@julianchang.com,nominative@pro,Mr,Julian Chang,www.linkedin.com/company/julian-chang,Julian,Julian Chang,Chang,+1 786-360-2631,www.julianchang.com,Julian Chang | Julian Chang | www.julianchang.com,2021-11-20T19:48:23.973Z,,,,,,,,,,,
+David Gormley,David,Gormley,"Zephyr Graf-X, Inc.",www.zhats.com,david@zhats.com,nominative@pro,Mr,"Zephyr Graf-X,",www.linkedin.com/company/zephyr-graf-x,David,David Gormley,Gormley,+1 970-663-3242,www.zhats.com,"David Gormley | Zephyr Graf-X, Inc. | www.zhats.com",2021-11-20T19:48:29.890Z,,,,,,,,,,,
+Ashley Weber Aron,Ashley,Aron,"Stance, Inc.",www.stance.com,ashley@stance.com,nominative@pro,Mrs,"Stance,",www.linkedin.com/company/stance-socks,Ashley,Ashley Aron,Aron,,www.stance.com,"Ashley Weber Aron | Stance, Inc. | www.stance.com",2021-11-20T19:48:41.456Z,,,69.10Z,429559586,42955958600038,37 Avenue de Friedland,Paris,75008,FR14429559586,ActivitÃ©s juridiques,3-5
+Carolyn Sarnecki,,,"HippyTree, LLC",www.hippytree.com,carolyn@hippytree.com,nominative@pro,Mrs,"Hippytree,",www.linkedin.com/company/hippytree,Carolyn,Carolyn Sarnecki,Sarnecki,+1 310-341-0663,www.hippytree.com,"Carolyn Sarnecki | HippyTree, LLC | www.hippytree.com",2021-11-20T19:48:52.688Z,,,,,,,,,,,

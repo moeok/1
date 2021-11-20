@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Nat Landau,Nat,Landau,"Landau Uniforms, Inc.",www.landau.com
-Dayna Pinkham,Dayna,Pinkham,Pinkham Millinery,www.pinkhammillinery.com
-Don Grissman,Don,Grissman,Midwest Workwear,www.midwestworkwear.com
-Shannon Unger,Shannon,Unger,"Kid to Kid Franchise System, Inc.",www.kidtokid.com
-Lisa Dumais Behm,Lisa,Behm,"Elite Sportswear, L.P.",www.gkelite.com
-Adri Rebis,Adri,Rebis,Bella Brazil Spa,www.bellabrazilspa.com
-Sharon Wright,Sharon,Wright,Performance On Hand,www.performanceonhand.com
-Jason Petrucci,Jason,Petrucci,Nasco Industries Inc.,www.nascoinc.com
-Charlotte Hale,Charlotte,Hale,Plum Pretty Sugar,www.plumprettysugar.com
-I�igo Iraola,I�igo,Iraola,"Rip Curl, Inc.",www.ripcurl.com
-Nejla Matam Finn,Nejla,Finn,THE FIFTH COLLECTION Pte. Ltd.,www.thefifthcollection.com
-Jodi Guber,Jodi,Guber,Beyond Yoga,www.beyondyoga.com
-Neal Black,Neal,Black,"Paul Fredrick MenStyle, Inc.",www.paulfredrick.com
-Alistair Murrell,Alistair,Murrell,Riz Boardshorts,www.rizboardshorts.com
-Lex Winship,Lex,Winship,"Real Thread, Inc.",www.realthread.com
-Ross Labelson,Ross,Labelson,"Buckle-Down, Inc.",www.buckle-down.com
-Jennifer Lin,Jennifer,Lin,"Primary Kids, Inc.",www.primary.com
-Ze'ev Feig,Ze'ev,Feig,Zensah,www.zensah.com
-Ryan Gregg,Ryan,Gregg,A-1 Screenprinting,www.undergroundshirts.com
-Peter Ahn,,,"Mias Fashion Mfg Co, Inc",www.miasfashion.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,website,mailQuery,mailTimestamp,phone,error,linkedin,company_results,company_turnover,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat
+Nat Landau,Nat,Landau,"Landau Uniforms, Inc.",www.landau.com,nat.landau@landau.com,nominative@pro,Mr,"Landau Uniforms,",www.linkedin.com/company/landau-uniforms,Nat,Nat Landau,Landau,www.landau.com,"Nat Landau | Landau Uniforms, Inc. | www.landau.com",2021-11-20T20:32:27.316Z,,,,,,,,,,,,,,
+Dayna Pinkham,Dayna,Pinkham,Pinkham Millinery,www.pinkhammillinery.com,dayna@pinkhammillinery.com,nominative@pro,Mrs,Pinkham Millinery,www.linkedin.com/company/pinkham-millinery,Dayna,Dayna Pinkham,Pinkham,www.pinkhammillinery.com,Dayna Pinkham | Pinkham Millinery | www.pinkhammillinery.com,2021-11-20T20:32:40.073Z,,,,,,,,,,,,,,
+Don Grissman,Don,Grissman,Midwest Workwear,www.midwestworkwear.com,,,don,Midwest Workwear,www.linkedin.com/company/midwest-workwear,,Grissman,Grissman,www.midwestworkwear.com,Don Grissman | Midwest Workwear | www.midwestworkwear.com,2021-11-20T20:32:46.987Z,+1 888-923-9675,No email found,,,,,,,,,,,,
+Shannon Unger,Shannon,Unger,"Kid to Kid Franchise System, Inc.",www.kidtokid.com,shannon@kidtokid.com,nominative@pro,Mrs,"Kid To Kid Franchise System,",www.linkedin.com/company/kid-to-kid,Shannon,Shannon Unger,Unger,www.kidtokid.com,"Shannon Unger | Kid to Kid Franchise System, Inc. | www.kidtokid.com",2021-11-20T20:33:05.903Z,,,,,,,,,,,,,,
+Lisa Dumais Behm,Lisa,Behm,"Elite Sportswear, L.P.",www.gkelite.com,,,Mrs,"Elite Sportswear, L.p.",www.linkedin.com/company/gk-elite,Lisa,Lisa Behm,Behm,www.gkelite.com,"Lisa Dumais Behm | Elite Sportswear, L.P. | www.gkelite.com",2021-11-20T20:33:17.769Z,+1 610-921-1469,No email found,,,,,,,,,,,,
+Adri Rebis,Adri,Rebis,Bella Brazil Spa,www.bellabrazilspa.com,adri@bellabrazilspa.com,nominative@pro,Mr,Bella Brazil Spa,www.linkedin.com/company/bella-brazil,Adri,Adri Rebis,Rebis,www.bellabrazilspa.com,Adri Rebis | Bella Brazil Spa | www.bellabrazilspa.com,2021-11-20T20:33:31.025Z,,,www.linkedin.com/in/adri-rebis-54253466,,,,,,,,,,,
+Sharon Wright,Sharon,Wright,Performance On Hand,www.performanceonhand.com,sharon@performanceonhand.com,nominative@pro,Mrs,Performance On Hand,www.linkedin.com/company/performance-on-hand,Sharon,Sharon Wright,Wright,www.performanceonhand.com,Sharon Wright | Performance On Hand | www.performanceonhand.com,2021-11-20T20:34:03.381Z,,,,,,,,,,,,,,
+Jason Petrucci,Jason,Petrucci,Nasco Industries Inc.,www.nascoinc.com,jpetrucci@nascoinc.net,catch-all@pro,Mr,Nasco Industries,www.linkedin.com/company/nasco-industries-inc.,Jason,Jason Petrucci,Petrucci,www.nascoinc.com,Jason Petrucci | Nasco Industries Inc. | www.nascoinc.com,2021-11-20T20:34:15.990Z,+81 22547393,,,-10436,102437,23.63Z,Fabrication de béton prêt à l'emploi,Unités non employeuses,800767428,80076742800017,7 Rue de la Fontaine Blanche,Pont-Péan,35131,FR05800767428
+Charlotte Hale,Charlotte,Hale,Plum Pretty Sugar,www.plumprettysugar.com,charlotte@plumprettysugar.com,catch-all@pro,Mrs,Plum Pretty Sugar,www.linkedin.com/company/plum-pretty-sugar,Charlotte,Charlotte Hale,Hale,www.plumprettysugar.com,Charlotte Hale | Plum Pretty Sugar | www.plumprettysugar.com,2021-11-20T20:34:23.340Z,+1 310-869-8366,,www.linkedin.com/in/charlotte-hale-0303083b,,,,,,,,,,,
+I�igo Iraola,I�igo,Iraola,"Rip Curl, Inc.",www.ripcurl.com,,,,"Rip Curl,",www.linkedin.com/company/rip-curl,,Iigo Iraola,Iigo Iraola,www.ripcurl.com,"I�igo Iraola | Rip Curl, Inc. | www.ripcurl.com",2021-11-20T20:34:29.978Z,+33 5 59 43 62 03,No email found,,-1841866,39950561,46.42Z,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,100-199,332899731,33289973100035,407 Avenue de la Tuilerie,Soorts-Hossegor,40150,FR09332899731
+Nejla Matam Finn,Nejla,Finn,THE FIFTH COLLECTION Pte. Ltd.,www.thefifthcollection.com,nejla@thefifthcollection.com,nominative@pro,Mrs,The Fifth Collection,www.linkedin.com/company/the-fifth-collection,Nejla,Nejla Finn,Finn,www.thefifthcollection.com,Nejla Matam Finn | THE FIFTH COLLECTION Pte. Ltd. | www.thefifthcollection.com,2021-11-20T20:34:42.955Z,,,,,,,,,,,,,,
+Jodi Guber,Jodi,Guber,Beyond Yoga,www.beyondyoga.com,jodi@beyondyoga.com,nominative@pro,Mrs,Beyond Yoga,www.linkedin.com/company/beyond-yoga,Jodi,Jodi Guber,Guber,www.beyondyoga.com,Jodi Guber | Beyond Yoga | www.beyondyoga.com,2021-11-20T20:34:49.573Z,+32 3 638 14 27,,,,,,,,,,,,,
+Neal Black,Neal,Black,"Paul Fredrick MenStyle, Inc.",www.paulfredrick.com,nblack@paulfredrick.com,nominative@pro,Mr,"Paul Fredrick Menstyle,",www.linkedin.com/company/paul-fredrick-menstyle,Neal,Neal Black,Black,www.paulfredrick.com,"Neal Black | Paul Fredrick MenStyle, Inc. | www.paulfredrick.com",2021-11-20T20:35:06.010Z,+1 800-247-1417,,www.linkedin.com/in/neal-black-4369a997,,,,,,,,,,,
+Alistair Murrell,Alistair,Murrell,Riz Boardshorts,www.rizboardshorts.com,,,Mr,Riz Boardshorts,www.linkedin.com/company/riz-boardshorts-ltd,Alistair,Alistair Murrell,Murrell,www.rizboardshorts.com,Alistair Murrell | Riz Boardshorts | www.rizboardshorts.com,2021-11-20T20:35:19.283Z,+44 7813 150855,No email found,www.linkedin.com/in/alistair-murrell-53a39ab,,,,,,,,,,,
+Lex Winship,Lex,Winship,"Real Thread, Inc.",www.realthread.com,lex@realthread.com,nominative@pro,Mr,"Real Thread,",www.linkedin.com/company/real-thread,Lex,Lex Winship,Winship,www.realthread.com,"Lex Winship | Real Thread, Inc. | www.realthread.com",2021-11-20T20:35:26.629Z,+20 37974,,,,,,,,,,,,,
+Ross Labelson,Ross,Labelson,"Buckle-Down, Inc.",www.buckle-down.com,rosslabelson@buckle-down.com,catch-all@pro,Mr,"Buckle-Down,",www.linkedin.com/company/buckle-down-inc.,Ross,Ross Labelson,Labelson,www.buckle-down.com,"Ross Labelson | Buckle-Down, Inc. | www.buckle-down.com",2021-11-20T20:35:33.504Z,+63 14204238,,www.linkedin.com/in/ross-labelson-a0bb094,,,,,,,,,,,
+Jennifer Lin,Jennifer,Lin,"Primary Kids, Inc.",www.primary.com,jlin@primary.com,nominative@pro,Mrs,"Primary Kids,",www.linkedin.com/company/primary-com,Jennifer,Jennifer Lin,Lin,www.primary.com,"Jennifer Lin | Primary Kids, Inc. | www.primary.com",2021-11-20T20:35:50.165Z,+1 844-435-5675,,,,,,,,,,,,,
+Ze'ev Feig,Ze'ev,Feig,Zensah,www.zensah.com,zeev@zensah.com,nominative@pro,Mr,Zensah,www.linkedin.com/company/zensah,Zeev,Zeev Feig,Feig,www.zensah.com,Ze'ev Feig | Zensah | www.zensah.com,2021-11-20T20:36:02.398Z,+1 305-935-4619,,,,,,,,,,,,,
+Ryan Gregg,Ryan,Gregg,A-1 Screenprinting,www.undergroundshirts.com,ryan@undergroundshirts.com,nominative@pro,Mr,A-1 Screenprinting,www.linkedin.com/company/underground-printing,Ryan,Ryan Gregg,Gregg,www.undergroundshirts.com,Ryan Gregg | A-1 Screenprinting | www.undergroundshirts.com,2021-11-20T20:36:27.065Z,,,,,,,,,,,,,,
+Peter Ahn,,,"Mias Fashion Mfg Co, Inc",www.miasfashion.com,pahn@miasfashion.com,nominative@pro,Mr,Mias Fashion Mfg,www.linkedin.com/company/mias-fashion,Peter,Peter Ahn,Ahn,www.miasfashion.com,"Peter Ahn | Mias Fashion Mfg Co, Inc | www.miasfashion.com",2021-11-20T20:36:39.223Z,+56 29061060,,,,,,,,,,,,,

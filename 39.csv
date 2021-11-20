@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Gillian Mahin,Gillian,Mahin,For Love And Lemons,www.forloveandlemons.com
-Raman Agarwal,Raman,Agarwal,Bang Overseas Ltd,www.banggroup.com
-Dora Lau,Dora,Lau,"Dora L. International, Inc",www.doralinc.com
-Heather Clark,Heather,Clark,Pomchies LLC,www.pomchies.com
-William Kinsey,William,Kinsey,Sophisticated Curves,www.sophisticatedcurves.com
-Madhav Modi,Madhav,Modi,"Vishal Enterprises, Inc.",www.vishalent.com
-Filip Tysander,Filip,Tysander,Daniel Wellington Inc,www.danielwellington.com
-Gretchen Monahan,Gretchen,Monahan,Grettacole,www.grettastyle.com
-Studio Chane,Studio,Chane,Studio Chane,www.chane.com
-Patty Duke,Patty,Duke,Point6 LLC,www.point6.com
-Mona Ng,Mona,Ng,Valentine U.S.A. Inc.,www.valentine-usa.com
-Dwayne Ward,Dwayne,Ward,D Dub Custom Sportswear,www.ddubcustomsportswear.com
-Michael Williams,Michael,Williams,Luxenberg�s Jewelers,www.luxenbergs.com
-Susan White,Susan,White,Turq LLC,www.turqsport.com
-Vinay Patel,Vinay,Patel,Sanginionline,www.sanginionline.com
-Romeu Trussardi Neto,Romeu,Neto,"Trousseau, Ltd",www.trousseaultd.com
-Steve Mankin,Steve,Mankin,T Shirt1,www.tshirt1.com
-Chris Chase,Chris,Chase,Otter Wax,www.otterwax.com
-Tracy Watts,Tracy,Watts,Tracywatts New York,www.tracywatts.com
-Jennifer Anderson,,,Logo Depot,www.logodepotweb.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat,website,mailQuery,mailTimestamp,phone,error,linkedin
+Gillian Mahin,Gillian,Mahin,For Love And Lemons,www.forloveandlemons.com,gillian@forloveandlemons.com,nominative@pro,Mrs,For Love And Lemons,www.linkedin.com/company/for-love-lemons,Gillian,Gillian Mahin,Mahin,68.20B,Location de terrains et d'autres biens immobiliers,Unités non employeuses,433954062,43395406200025,24 Rue Louis Ganne,Parthenay,79200,FR75433954062,www.forloveandlemons.com,Gillian Mahin | For Love And Lemons | www.forloveandlemons.com,2021-11-20T20:39:42.850Z,,,
+Raman Agarwal,Raman,Agarwal,Bang Overseas Ltd,www.banggroup.com,raman@banggroup.com,nominative@pro,Mr,Bang Overseas,www.linkedin.com/company/bang-overseas-ltd,Raman,Raman Agarwal,Agarwal,,,,,,,,,,www.banggroup.com,Raman Agarwal | Bang Overseas Ltd | www.banggroup.com,2021-11-20T20:39:55.660Z,+91 22 6660 7965,,
+Dora Lau,Dora,Lau,"Dora L. International, Inc",www.doralinc.com,dora@doralinc.com,nominative@pro,Mrs,"Dora L. International,",www.linkedin.com/company/dora-l-international,Dora,Dora Lau,Lau,68.20B,Location de terrains et d'autres biens immobiliers,,852288224,85228822400011,41 Rue Haute,Boucq,54200,FR71852288224,www.doralinc.com,"Dora Lau | Dora L. International, Inc | www.doralinc.com",2021-11-20T20:40:12.802Z,+62 66800,,
+Heather Clark,Heather,Clark,Pomchies LLC,www.pomchies.com,heatherclark@pomchies.com,nominative@pro,Mrs,Pomchies,www.linkedin.com/company/pomchies-llc,Heather,Heather Clark,Clark,,,,,,,,,,www.pomchies.com,Heather Clark | Pomchies LLC | www.pomchies.com,2021-11-20T20:40:24.466Z,+1 888-576-6244,,
+William Kinsey,William,Kinsey,Sophisticated Curves,www.sophisticatedcurves.com,,,Mr,Sophisticated Curves,www.linkedin.com/company/sophisticated-curves,William,William Kinsey,Kinsey,,,,,,,,,,www.sophisticatedcurves.com,William Kinsey | Sophisticated Curves | www.sophisticatedcurves.com,2021-11-20T20:40:37.081Z,+1 855-253-3900,No email found,
+Madhav Modi,Madhav,Modi,"Vishal Enterprises, Inc.",www.vishalent.com,,,Mr,"Vishal Enterprises,",www.linkedin.com/company/vishal-enterprises,Madhav,Madhav Modi,Modi,,,,,,,,,,www.vishalent.com,"Madhav Modi | Vishal Enterprises, Inc. | www.vishalent.com",2021-11-20T20:40:49.492Z,,No email found,
+Filip Tysander,Filip,Tysander,Daniel Wellington Inc,www.danielwellington.com,filip.tysander@danielwellington.com,nominative@pro,Mr,Daniel Wellington,www.linkedin.com/company/daniel-wellington-ab,Filip,Filip Tysander,Tysander,46.48Z,Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie,,800412892,80041289200013,Rue des Suèdes,Chazot,25430,FR02800412892,www.danielwellington.com,Filip Tysander | Daniel Wellington Inc | www.danielwellington.com,2021-11-20T20:41:02.019Z,+33 1 42 77 13 41,,
+Gretchen Monahan,Gretchen,Monahan,Grettacole,www.grettastyle.com,,,Mrs,Grettacole,www.linkedin.com/company/gretta-enterprises,Gretchen,Gretchen Monahan,Monahan,,,,,,,,,,www.grettastyle.com,Gretchen Monahan | Grettacole | www.grettastyle.com,2021-11-20T20:41:14.741Z,+61 72666166,No email found,
+Studio Chane,Studio,Chane,Studio Chane,www.chane.com,,,Mr,Studio Chane,www.linkedin.com/company/studio-chane,Chane,Chane Studio,Studio,,,,,,,,,,www.chane.com,Studio Chane | Studio Chane | www.chane.com,2021-11-20T20:41:27.068Z,+60 19-813 547,No email found,
+Patty Duke,Patty,Duke,Point6 LLC,www.point6.com,patty@point6.com,nominative@pro,Mrs,Point6,www.linkedin.com/company/point6,Patty,Patty Duke,Duke,94.99Z,Autres organisations fonctionnant par adhésion volontaire,,877949966,87794996600015,62 Allée Edmond Rostand,Cambo-les-Bains,64250,FR83877949966,www.point6.com,Patty Duke | Point6 LLC | www.point6.com,2021-11-20T20:41:45.039Z,+970 8711055,,
+Mona Ng,Mona,Ng,Valentine U.S.A. Inc.,www.valentine-usa.com,mng@valentine-usa.com,nominative@pro,Mrs,Valentine U.s.a.,www.linkedin.com/company/valentine-u.s.a.-inc.,Mona,Mona Ng,Ng,,,,,,,,,,www.valentine-usa.com,Mona Ng | Valentine U.S.A. Inc. | www.valentine-usa.com,2021-11-20T20:41:51.963Z,+49 621 87949827,,
+Dwayne Ward,Dwayne,Ward,D Dub Custom Sportswear,www.ddubcustomsportswear.com,dwayne@ddubcustomsportswear.com,nominative@pro,Mr,D Dub Custom Sportswear,,Dwayne,Dwayne Ward,Ward,,,,,,,,,,www.ddubcustomsportswear.com,Dwayne Ward | D Dub Custom Sportswear | www.ddubcustomsportswear.com,2021-11-20T20:42:18.067Z,+65 08683826,,
+Michael Williams,Michael,Williams,Luxenberg�s Jewelers,www.luxenbergs.com,mwilliams@luxenbergs.com,nominative@pro,Mr,Luxenbergs Jewelers,,Michael,Michael Williams,Williams,,,,,,,,,,www.luxenbergs.com,Michael Williams | Luxenberg�s Jewelers | www.luxenbergs.com,2021-11-20T20:42:31.051Z,,,
+Susan White,Susan,White,Turq LLC,www.turqsport.com,susan.white@turqsport.com,catch-all@pro,Mrs,Turq,www.linkedin.com/company/turq-llc,Susan,Susan White,White,39..01,,,306980269,30698026900014,Rue François Cabrol,Rodez,12000,FR24306980269,www.turqsport.com,Susan White | Turq LLC | www.turqsport.com,2021-11-20T20:42:38.068Z,+20 3 5436140,,
+Vinay Patel,Vinay,Patel,Sanginionline,www.sanginionline.com,,,Mr,Sanginionline,,Vinay,Vinay Patel,Patel,,,,,,,,,,www.sanginionline.com,Vinay Patel | Sanginionline | www.sanginionline.com,2021-11-20T20:42:50.721Z,,No email found,www.linkedin.com/in/sanginionline
+Romeu Trussardi Neto,Romeu,Neto,"Trousseau, Ltd",www.trousseaultd.com,rneto@trousseaultd.com,catch-all@pro,Mr,"Trousseau,",www.linkedin.com/company/trousseau,Romeu,Romeu Neto,Neto,66.19A,Supports juridiques de gestion de patrimoine mobilier,,828470963,82847096300012,35 Rue des Bergères,Les Ulis,91940,FR40828470963,www.trousseaultd.com,"Romeu Trussardi Neto | Trousseau, Ltd | www.trousseaultd.com",2021-11-20T20:42:57.560Z,+1 703-255-3300,,www.linkedin.com/in/romeu-neto-18419214
+Steve Mankin,Steve,Mankin,T Shirt1,www.tshirt1.com,steve@tshirt1.com,nominative@pro,Mr,T Shirt1,www.linkedin.com/company/t-shirt1,Steve,Steve Mankin,Mankin,,,,,,,,,,www.tshirt1.com,Steve Mankin | T Shirt1 | www.tshirt1.com,2021-11-20T20:43:10.287Z,+81 22325046,,
+Chris Chase,Chris,Chase,Otter Wax,www.otterwax.com,chrischase@otterwax.com,nominative@pro,Mr,Otter Wax,www.linkedin.com/company/otter-wax,Chris,Chris Chase,Chase,,,,,,,,,,www.otterwax.com,Chris Chase | Otter Wax | www.otterwax.com,2021-11-20T20:43:21.820Z,+49 176 43860698,,
+Tracy Watts,Tracy,Watts,Tracywatts New York,www.tracywatts.com,tracy@tracywatts.com,nominative@pro,Mrs,Tracywatts New York,www.linkedin.com/company/tracywatts-inc.,Tracy,Tracy Watts,Watts,,,,,,,,,,www.tracywatts.com,Tracy Watts | Tracywatts New York | www.tracywatts.com,2021-11-20T20:43:28.202Z,+44 121 327 2916,,www.linkedin.com/in/tracywatts
+Jennifer Anderson,,,Logo Depot,www.logodepotweb.com,jennifer@logodepotweb.com,nominative@pro,Mrs,Logo Depot,www.linkedin.com/company/logo-depot-industrial-uniform,Jennifer,Jennifer Anderson,Anderson,,,,,,,,,,www.logodepotweb.com,Jennifer Anderson | Logo Depot | www.logodepotweb.com,2021-11-20T20:43:40.411Z,+31 62642871,,

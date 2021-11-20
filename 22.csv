@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Lellie Keating,Lellie,Keating,Dandelion,www.dandelionjewelry.com
-Micaela Erlanger,Micaela,Erlanger,Micaela Erlanger,www.micaelaerlanger.com
-Judy La Fleur,Judy,Fleur,A Day Away Designs,www.adayawaydesigns.com
-Seth Tachick,Seth,Tachick,"Blank Shirts, Inc.",www.blankshirts.com
-Kenneth Chan,Kenneth,Chan,Tobi,www.tobi.com
-Jay Berman,Jay,Berman,"Visual Impressions, Inc",www.visualimp.com
-Kerry Stich,Kerry,Stich,Indigo Tones,www.indigotones.com
-Rob Gough,Rob,Gough,Dope,www.dope.com
-Greger Hansen,Greger,Hansen,Mestergull,www.mestergull.no
-Karen Verkutis,Karen,Verkutis,Corporate Images - Denver,www.corpimagesapparel.com
-Richard Henne,Richard,Henne,Ivory Ella,www.ivoryella.com
-Paulien Wesselink,Paulien,Wesselink,O My Bag,www.omybag.nl
-Frasier Lipton,Frasier,Lipton,"Frasier Sterling, Inc.",www.frasiersterling.com
-Ed Raftery,Ed,Raftery,TrailHeads,www.trailheads.com
-Kerry Fournier,Kerry,Fournier,Touchstone Crystal By Swarovski,www.touchstonecrystal.com
-Nick Memeti,Nick,Memeti,"Red Model Management, LLC",www.rednyc.com
-Maggie Winter,Maggie,Winter,"AYR, Inc.",www.ayr.com
-Patrick Porter,Patrick,Porter,A.L.C. Ltd.,www.alcltd.com
-Dean Machado,Dean,Machado,Mandego Apparel,www.mandego.com
-Jennifer D'angelo,,,Nooworks,www.nooworks.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat,website,mailQuery,mailTimestamp,phone,error,linkedin,company_results,company_turnover
+Lellie Keating,Lellie,Keating,Dandelion,www.dandelionjewelry.com,lellie@dandelionjewelry.com,nominative@pro,Mr,Dandelion,www.linkedin.com/company/dandelionjewelry,Keating,Keating Lellie,Lellie,47.71Z,Commerce de détail d'habillement en magasin spécialisé,3-5,803454412,80345441200013,2 Rue de la Puyolle,Laloubère,65310,FR63803454412,www.dandelionjewelry.com,Lellie Keating | Dandelion | www.dandelionjewelry.com,2021-11-20T20:05:02.390Z,,,,,
+Micaela Erlanger,Micaela,Erlanger,Micaela Erlanger,www.micaelaerlanger.com,micaela@micaelaerlanger.com,nominative@pro,Mrs,Micaela Erlanger,www.linkedin.com/company/micaela-erlanger-&-company,Micaela,Micaela Erlanger,Erlanger,,,,,,,,,,www.micaelaerlanger.com,Micaela Erlanger | Micaela Erlanger | www.micaelaerlanger.com,2021-11-20T20:05:11.128Z,,,,,
+Judy La Fleur,Judy,Fleur,A Day Away Designs,www.adayawaydesigns.com,judy@adayawaydesigns.com,nominative@pro,Mrs,A Day Away Designs,www.linkedin.com/company/a-day-away-designs,Judy,Judy Fleur,Fleur,,,,,,,,,,www.adayawaydesigns.com,Judy La Fleur | A Day Away Designs | www.adayawaydesigns.com,2021-11-20T20:05:24.285Z,,,,,
+Seth Tachick,Seth,Tachick,"Blank Shirts, Inc.",www.blankshirts.com,seth@blankshirts.com,nominative@pro,Mr,"Blank Shirts,",,Seth,Seth Tachick,Tachick,,,,,,,,,,www.blankshirts.com,"Seth Tachick | Blank Shirts, Inc. | www.blankshirts.com",2021-11-20T20:05:32.377Z,,,,,
+Kenneth Chan,Kenneth,Chan,Tobi,www.tobi.com,kenneth.chan@tobi.com,nominative@pro,Mr,Tobi,www.linkedin.com/company/tobi,Kenneth,Kenneth Chan,Chan,62.02A,Conseil en systèmes et logiciels informatiques,Unités non employeuses,404091837,40409183700025,18 Rue Jean-Pierre Timbaud,Paris,75011,FR78404091837,www.tobi.com,Kenneth Chan | Tobi | www.tobi.com,2021-11-20T20:05:45.815Z,+1 775-331-3145,,,,
+Jay Berman,Jay,Berman,"Visual Impressions, Inc",www.visualimp.com,jayb@visualimp.com,nominative@pro,Mr,"Visual Impressions,",www.linkedin.com/company/visual-impressions,Jay,Jay Berman,Berman,43.21A,Travaux d'installation électrique dans tous locaux,,800291833,80029183300013,22 Rue des Campagnols,Vauréal,95490,FR90800291833,www.visualimp.com,"Jay Berman | Visual Impressions, Inc | www.visualimp.com",2021-11-20T20:05:59.600Z,+1 414-354-9190,,,,
+Kerry Stich,Kerry,Stich,Indigo Tones,www.indigotones.com,,,Mrs,Indigo Tones,www.linkedin.com/company/indigo-tones,Kerry,Kerry Stich,Stich,,,,,,,,,,www.indigotones.com,Kerry Stich | Indigo Tones | www.indigotones.com,2021-11-20T20:06:13.573Z,+1 585-329-5131,No email found,,,
+Rob Gough,Rob,Gough,Dope,www.dope.com,robg@dope.com,nominative@pro,Mr,Dope,,Rob,Rob Gough,Gough,45.11Z,Commerce de voitures et de véhicules automobiles légers,,790703797,79070379700015,950 Chemin de la Pierre de Feu,Aix-en-Provence,13090,FR71790703797,www.dope.com,Rob Gough | Dope | www.dope.com,2021-11-20T20:06:37.859Z,,,,,
+Greger Hansen,Greger,Hansen,Mestergull,www.mestergull.no,gh@mestergull.no,nominative@pro,Mr,Mestergull,,Greger,Greger Hansen,Hansen,,,,,,,,,,www.mestergull.no,Greger Hansen | Mestergull | www.mestergull.no,2021-11-20T20:06:45.590Z,,,www.linkedin.com/in/greger-hansen-240479a,,
+Karen Verkutis,Karen,Verkutis,Corporate Images - Denver,www.corpimagesapparel.com,karen@corpimagesapparel.com,nominative@pro,Mrs,Corporate Images - Denver,www.linkedin.com/company/corporate-images---denver,Karen,Karen Verkutis,Verkutis,,,,,,,,,,www.corpimagesapparel.com,Karen Verkutis | Corporate Images - Denver | www.corpimagesapparel.com,2021-11-20T20:06:57.579Z,+1 800-567-7833,,,,
+Richard Henne,Richard,Henne,Ivory Ella,www.ivoryella.com,,,Mr,Ivory Ella,www.linkedin.com/company/ivory-ella,Richard,Richard Henne,Henne,,,,,,,,,,www.ivoryella.com,Richard Henne | Ivory Ella | www.ivoryella.com,2021-11-20T20:07:10.458Z,,No email found,,,
+Paulien Wesselink,Paulien,Wesselink,O My Bag,www.omybag.nl,paulien@omybag.nl,nominative@pro,Mrs,O My Bag,www.linkedin.com/company/o-my-bag,Paulien,Paulien Wesselink,Wesselink,,,,,,,,,,www.omybag.nl,Paulien Wesselink | O My Bag | www.omybag.nl,2021-11-20T20:07:24.353Z,+31 20 772 4464,,,,
+Frasier Lipton,Frasier,Lipton,"Frasier Sterling, Inc.",www.frasiersterling.com,frasier@frasiersterling.com,nominative@pro,Mr,"Frasier Sterling,",www.linkedin.com/company/frasier-sterling-jewelry,Frasier,Frasier Lipton,Lipton,,,,,,,,,,www.frasiersterling.com,"Frasier Lipton | Frasier Sterling, Inc. | www.frasiersterling.com",2021-11-20T20:07:37.287Z,,,,,
+Ed Raftery,Ed,Raftery,TrailHeads,www.trailheads.com,ed@trailheads.com,nominative@pro,Mr,Trailheads,www.linkedin.com/company/trailheads,Ed,Ed Raftery,Raftery,,,,,,,,,,www.trailheads.com,Ed Raftery | TrailHeads | www.trailheads.com,2021-11-20T20:07:44.752Z,,,,,
+Kerry Fournier,Kerry,Fournier,Touchstone Crystal By Swarovski,www.touchstonecrystal.com,kerry.fournier@touchstonecrystal.com,nominative@pro,Mrs,Touchstone Crystal By Swarovski,www.linkedin.com/company/touchstone-crystal,Kerry,Kerry Fournier,Fournier,,,,,,,,,,www.touchstonecrystal.com,Kerry Fournier | Touchstone Crystal By Swarovski | www.touchstonecrystal.com,2021-11-20T20:07:57.194Z,+1 800-203-2488,,www.linkedin.com/in/kerry-fournier-93935811,,
+Nick Memeti,Nick,Memeti,"Red Model Management, LLC",www.rednyc.com,,,Mr,"Red Model Management,",www.linkedin.com/company/red-model-management,Nick,Nick Memeti,Memeti,,,,,,,,,,www.rednyc.com,"Nick Memeti | Red Model Management, LLC | www.rednyc.com",2021-11-20T20:08:05.287Z,,No email found,,,
+Maggie Winter,Maggie,Winter,"AYR, Inc.",www.ayr.com,maggie@ayr.com,nominative@pro,Mrs,"Ayr,",www.linkedin.com/company/ayr,Maggie,Maggie Winter,Winter,46.49Z,Commerce de gros (commerce interentreprises) d'autres biens domestiques,0,794246736,79424673600019,Avenue Anatole France,Tremblay-en-France,93290,FR16794246736,www.ayr.com,"Maggie Winter | AYR, Inc. | www.ayr.com",2021-11-20T20:08:18.123Z,+1 800-778-7879,,,100327,301793
+Patrick Porter,Patrick,Porter,A.L.C. Ltd.,www.alcltd.com,,,Mr,A.l.c.,www.linkedin.com/company/a-l-c-,Patrick,Patrick Porter,Porter,68.20B,Location de terrains et d'autres biens immobiliers,Unités non employeuses,420666190,42066619000012,50 Avenue Gabriel Péri,Saint-Ouen-sur-Seine,93400,FR64420666190,www.alcltd.com,Patrick Porter | A.L.C. Ltd. | www.alcltd.com,2021-11-20T20:08:26.279Z,+84 48697777,No email found,,,
+Dean Machado,Dean,Machado,Mandego Apparel,www.mandego.com,dean@mandego.com,nominative@pro,Mr,Mandego Apparel,www.linkedin.com/company/mandego-apparel,Dean,Dean Machado,Machado,,,,,,,,,,www.mandego.com,Dean Machado | Mandego Apparel | www.mandego.com,2021-11-20T20:08:33.494Z,,,www.linkedin.com/in/dean-machado-a0a58247,,
+Jennifer D'angelo,,,Nooworks,www.nooworks.com,,,Mrs,Nooworks,,Jennifer,Jennifer d'Angelo,d'Angelo,,,,,,,,,,www.nooworks.com,Jennifer D'angelo | Nooworks | www.nooworks.com,2021-11-20T20:09:01.550Z,+1 415-829-7623,No email found,,,

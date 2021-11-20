@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Jack Zyman,Jack,Zyman,The Collective Works of Berek,www.bereksweaters.com
-Candace Patterson Middleton,Candace,Middleton,LaRue Chic Boutique,www.ishoplarue.com
-Shao Yang,Shao,Yang,The Tailory New York,www.thetailorynyc.com
-Praveen Tayal,Praveen,Tayal,Brij & Co,www.brij.com
-Heather Batt,Heather,Batt,Hayden Olivia Bridal,www.haydenolivia.com
-Reilly Mccoy,Reilly,Mccoy,Bandier Holdings LLC,www.bandier.com
-Matt Altman,Matt,Altman,Sportiqe Apparel,www.sportiqe.com
-Alexa Buckley,Alexa,Buckley,Margaux,www.margauxny.com
-Mike Maher,Mike,Maher,Taylor Stitch,www.taylorstitch.com
-Wes Haracz,Wes,Haracz,Hats For You Inc,www.hatsforyou.net
-Jennifer Mclaren,Jennifer,Mclaren,Smartwool LLC,www.smartwool.com
-Brittany Hovey,Brittany,Hovey,Creator Designs,www.creatordesigns.com
-Hailey Pink,Hailey,Pink,"Stance, Inc.",www.stance.com
-Mitch Barlas,Mitch,Barlas,Bagito,www.bagito.co
-Chris Baladad,Chris,Baladad,Sketch Lab Company,www.sketchlabco.com
-Chris Carioti,Chris,Carioti,Carioti Jewelers,www.jewelercolumbusohio.com
-Kenneth Chan,Kenneth,Chan,Tobi,www.tobi.com
-Jessica Pataki Smallwood,Jessica,Smallwood,Eider S.A.S.,www.eider.com
-Mia Do,Mia,Do,FlipBelt,www.flipbelt.com
-Randy Johnson,,,Logo2u.com,www.logo2u.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,website,mailQuery,mailTimestamp,phone,naf5_code,naf5_des,siren,siret,siret_address,siret_city,siret_zip,vat,error,nb_employees,company_results,company_turnover
+Jack Zyman,Jack,Zyman,The Collective Works of Berek,www.bereksweaters.com,jzyman@bereksweaters.com,nominative@pro,Mr,The Collective Works Of Berek,www.linkedin.com/company/the-collective-works-of-berek,Jack,Jack Zyman,Zyman,www.linkedin.com/in/jack-zyman-70629a83,www.bereksweaters.com,Jack Zyman | The Collective Works of Berek | www.bereksweaters.com,2021-11-20T20:07:10.480Z,,,,,,,,,,,,,
+Candace Patterson Middleton,Candace,Middleton,LaRue Chic Boutique,www.ishoplarue.com,candace@ishoplarue.com,catch-all@pro,Mrs,Larue Chic Boutique,www.linkedin.com/company/larue-chic-boutique,Candace,Candace Middleton,Middleton,,www.ishoplarue.com,Candace Patterson Middleton | LaRue Chic Boutique | www.ishoplarue.com,2021-11-20T20:07:17.598Z,+1 972-635-2264,,,,,,,,,,,,
+Shao Yang,Shao,Yang,The Tailory New York,www.thetailorynyc.com,shao@thetailorynyc.com,nominative@pro,Mr,The Tailory New York,www.linkedin.com/company/the-tailory-new-york,Shao,Shao Yang,Yang,www.linkedin.com/in/shaoyang,www.thetailorynyc.com,Shao Yang | The Tailory New York | www.thetailorynyc.com,2021-11-20T20:07:29.246Z,+1 212-813-1014,,,,,,,,,,,,
+Praveen Tayal,Praveen,Tayal,Brij & Co,www.brij.com,praveen.tayal@brij.com,nominative@pro,Mr,Brij &,www.linkedin.com/company/brijandco,Praveen,Praveen Tayal,Tayal,www.linkedin.com/in/praveen-tayal-69894319,www.brij.com,Praveen Tayal | Brij & Co | www.brij.com,2021-11-20T20:07:41.501Z,+91 88001 97314,62.09Z,Autres activités informatiques,750418311,75041831100015,123 Boulevard de Valmy,Colombes,92700,FR84750418311,,,,
+Heather Batt,Heather,Batt,Hayden Olivia Bridal,www.haydenolivia.com,,,Mrs,Hayden Olivia Bridal,www.linkedin.com/company/hayden-olivia-bridal,Heather,Heather Batt,Batt,,www.haydenolivia.com,Heather Batt | Hayden Olivia Bridal | www.haydenolivia.com,2021-11-20T20:07:48.084Z,+1 704-333-0377,,,,,,,,,No email found,,,
+Reilly Mccoy,Reilly,Mccoy,Bandier Holdings LLC,www.bandier.com,reilly.mccoy@bandier.com,nominative@pro,Mr,Bandier Holdings,www.linkedin.com/company/bandier,Reilly,Reilly Mccoy,Mccoy,www.linkedin.com/in/reilly-mccoy-4a87199b,www.bandier.com,Reilly Mccoy | Bandier Holdings LLC | www.bandier.com,2021-11-20T20:07:59.705Z,+84 48375400,,,,,,,,,,,,
+Matt Altman,Matt,Altman,Sportiqe Apparel,www.sportiqe.com,maltman@sportiqe.com,nominative@pro,Mr,Sportiqe Apparel,www.linkedin.com/company/sportiqe-apparel,Matt,Matt Altman,Altman,,www.sportiqe.com,Matt Altman | Sportiqe Apparel | www.sportiqe.com,2021-11-20T20:08:06.303Z,+48 08589900,,,,,,,,,,,,
+Alexa Buckley,Alexa,Buckley,Margaux,www.margauxny.com,alexa@margauxny.com,nominative@pro,Mrs,Margaux,www.linkedin.com/company/margauxny,Alexa,Alexa Buckley,Buckley,,www.margauxny.com,Alexa Buckley | Margaux | www.margauxny.com,2021-11-20T20:08:18.208Z,+91 74513483,01.21Z,Culture de la vigne,321152993,32115299300010,Château Margaux,Margaux-Cantenac,33460,FR89321152993,,200-249,,
+Mike Maher,Mike,Maher,Taylor Stitch,www.taylorstitch.com,,,Mr,Taylor Stitch,www.linkedin.com/company/taylor-stitch,Mike,Mike Maher,Maher,,www.taylorstitch.com,Mike Maher | Taylor Stitch | www.taylorstitch.com,2021-11-20T20:08:36.518Z,+1 415-621-2231,,,,,,,,,No email found,,,
+Wes Haracz,Wes,Haracz,Hats For You Inc,www.hatsforyou.net,,,Mr,Hats For You,www.linkedin.com/company/hats-for-you-inc,Wes,Wes Haracz,Haracz,,www.hatsforyou.net,Wes Haracz | Hats For You Inc | www.hatsforyou.net,2021-11-20T20:08:58.267Z,,,,,,,,,,No email found,,,
+Jennifer Mclaren,Jennifer,Mclaren,Smartwool LLC,www.smartwool.com,,,Mrs,Smartwool,www.linkedin.com/company/smartwool,Jennifer,Jennifer Mclaren,Mclaren,,www.smartwool.com,Jennifer Mclaren | Smartwool LLC | www.smartwool.com,2021-11-20T20:09:10.559Z,+1 888-879-9665,,,,,,,,,No email found,,,
+Brittany Hovey,Brittany,Hovey,Creator Designs,www.creatordesigns.com,brittany@creatordesigns.com,nominative@pro,Mrs,Creator Designs,www.linkedin.com/company/creator-designs,Brittany,Brittany Hovey,Hovey,,www.creatordesigns.com,Brittany Hovey | Creator Designs | www.creatordesigns.com,2021-11-20T20:09:17.713Z,,,,,,,,,,,,,
+Hailey Pink,Hailey,Pink,"Stance, Inc.",www.stance.com,,,Mrs,"Stance,",www.linkedin.com/company/stance-socks,Hailey,Hailey Pink,Pink,,www.stance.com,"Hailey Pink | Stance, Inc. | www.stance.com",2021-11-20T20:09:29.042Z,,69.10Z,Activités juridiques,429559586,42955958600038,37 Avenue de Friedland,Paris,75008,FR14429559586,No email found,3-5,,
+Mitch Barlas,Mitch,Barlas,Bagito,www.bagito.co,mitch@bagito.co,nominative@pro,Mr,Bagito,www.linkedin.com/company/bagito,Mitch,Mitch Barlas,Barlas,www.linkedin.com/in/mitch-barlas-a83340112,www.bagito.co,Mitch Barlas | Bagito | www.bagito.co,2021-11-20T20:09:42.198Z,+53 64160,,,,,,,,,,,,
+Chris Baladad,Chris,Baladad,Sketch Lab Company,www.sketchlabco.com,chris@sketchlabco.com,nominative@pro,Mr,Sketch Lab Company,www.linkedin.com/company/sketch-lab-company,Chris,Chris Baladad,Baladad,www.linkedin.com/in/chris-baladad-439b6730,www.sketchlabco.com,Chris Baladad | Sketch Lab Company | www.sketchlabco.com,2021-11-20T20:09:49.356Z,+61 98361919,,,,,,,,,,,,
+Chris Carioti,Chris,Carioti,Carioti Jewelers,www.jewelercolumbusohio.com,,,Mr,Carioti Jewelers,,Chris,Chris Carioti,Carioti,,www.jewelercolumbusohio.com,Chris Carioti | Carioti Jewelers | www.jewelercolumbusohio.com,2021-11-20T20:09:55.586Z,,,,,,,,,,No email found,,,
+Kenneth Chan,Kenneth,Chan,Tobi,www.tobi.com,kenneth.chan@tobi.com,nominative@pro,Mr,Tobi,www.linkedin.com/company/tobi,Kenneth,Kenneth Chan,Chan,,www.tobi.com,Kenneth Chan | Tobi | www.tobi.com,2021-11-20T20:10:07.524Z,+1 775-331-3145,62.02A,Conseil en systèmes et logiciels informatiques,404091837,40409183700025,18 Rue Jean-Pierre Timbaud,Paris,75011,FR78404091837,,Unités non employeuses,,
+Jessica Pataki Smallwood,Jessica,Smallwood,Eider S.A.S.,www.eider.com,jessica@eider.net,nominative@pro,Mrs,Eider S.a.s.,www.linkedin.com/company/eider-killy,Jessica,Jessica Smallwood,Smallwood,www.linkedin.com/in/jessicasmallwoodrealtor,www.eider.com,Jessica Pataki Smallwood | Eider S.A.S. | www.eider.com,2021-11-20T20:10:19.207Z,+33 4 50 10 23 60,46.42Z,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,400313318,40031331800026,21 Rue du Pré Faucon,Annecy,74600,FR38400313318,,250-499,-950000,84851000
+Mia Do,Mia,Do,FlipBelt,www.flipbelt.com,mia.do@flipbelt.com,nominative@pro,Mrs,Flipbelt,www.linkedin.com/company/flipbelt,Mia,Mia Do,Do,,www.flipbelt.com,Mia Do | FlipBelt | www.flipbelt.com,2021-11-20T20:10:26.258Z,+41 44 577 06 70,,,,,,,,,,,,
+Randy Johnson,,,Logo2u.com,www.logo2u.com,,,Mr,Logo2u.com,,Randy,Randy Johnson,Johnson,www.linkedin.com/in/randy-johnson-2a321615,www.logo2u.com,Randy Johnson | Logo2u.com | www.logo2u.com,2021-11-20T20:10:44.583Z,,,,,,,,,,No email found,,,

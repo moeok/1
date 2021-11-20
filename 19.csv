@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Paul Hedrick,Paul,Hedrick,"Tecovas, Inc.",www.tecovasboots.com
-Mike Cirker,Mike,Cirker,"Alpha Industries, Inc.",www.alphaindustries.com
-Merlin Clarke,Merlin,Clarke,Dogeared Inc.,www.dogeared.com
-Amanda Jane Thomas,Amanda,Thomas,Amanda Jane Thomas,www.luvaj.com
-Jarah Emerson,Jarah,Emerson,Gear Collective LLC,www.gearcollectivenyc.com
-Gwendolyn Floyd,Gwendolyn,Floyd,"Soko, Inc.",www.shopsoko.com
-Carly Burnett,Carly,Burnett,Tkees,www.tkees.com
-Teri Jenkins,Teri,Jenkins,Diamond T Embroidery,www.diamondtembroidery.com
-George Hoffman,George,Hoffman,"Fineline Technologies, Inc.",www.finelinetech.com
-Jeff Steitz,Jeff,Steitz,Serengetee LLC,www.serengetee.com
-Julie Feldman,Julie,Feldman,Julie Feldman Designs,www.juliefeldmandesigns.com
-Lillian Chor,Lillian,Chor,Baglanti Llc,www.baglantijewelry.com
-James Kitchens,James,Kitchens,Sage Clothing,www.sageclothing.com
-Greg Tomlinson,Greg,Tomlinson,VonZipper,www.vonzipper.com
-Lee Cottone,Lee,Cottone,The Embroidery Store,www.tesapparel.com
-Marina Carroll,Marina,Carroll,BleuFlamme LLC,www.originalstitch.com
-Scott Nelson,Scott,Nelson,"Local Team Shop, Ltd.",www.localteamshop.com
-Zach Scheimer,Zach,Scheimer,Criquet Shirts LLC,www.criquetshirts.com
-Kevin Boynton,Kevin,Boynton,Abraxas Jewelers,www.abraxasjewelers.com
-Rob Brandegee,,,"Little Earth Productions, Inc",www.littlearth.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,website,mailQuery,mailTimestamp,naf5_code,naf5_des,nb_employees,phone,siren,siret,siret_address,siret_city,siret_zip,vat,error,linkedin
+Paul Hedrick,Paul,Hedrick,"Tecovas, Inc.",www.tecovasboots.com,paul@tecovasboots.com,nominative@pro,Mr,"Tecovas,",www.linkedin.com/company/tecovas,Paul,Paul Hedrick,Hedrick,www.tecovasboots.com,"Paul Hedrick | Tecovas, Inc. | www.tecovasboots.com",2021-11-20T19:50:10.182Z,,,,,,,,,,,,
+Mike Cirker,Mike,Cirker,"Alpha Industries, Inc.",www.alphaindustries.com,mike@alphaindustries.com,nominative@pro,Mr,"Alpha Industries,",www.linkedin.com/company/alphaindustriesinc.,Mike,Mike Cirker,Cirker,www.alphaindustries.com,"Mike Cirker | Alpha Industries, Inc. | www.alphaindustries.com",2021-11-20T19:50:26.116Z,26.11Z,Fabrication de composants électroniques,Unités non employeuses,+1 866-631-0719,432125540,43212554000026,Rue des Etats-Unis,Bruay-la-Buissière,62700,FR53432125540,,
+Merlin Clarke,Merlin,Clarke,Dogeared Inc.,www.dogeared.com,,,Mr,Dogeared,www.linkedin.com/company/dogeared-jewels-&-gifts,Merlin,Merlin Clarke,Clarke,www.dogeared.com,Merlin Clarke | Dogeared Inc. | www.dogeared.com,2021-11-20T19:50:32.014Z,,,,+31 8464444,,,,,,,No email found,
+Amanda Jane Thomas,Amanda,Thomas,Amanda Jane Thomas,www.luvaj.com,amanda@luvaj.com,nominative@pro,Mrs,Amanda Jane Thomas,www.linkedin.com/company/luv-aj,Amanda,Amanda Thomas,Thomas,www.luvaj.com,Amanda Jane Thomas | Amanda Jane Thomas | www.luvaj.com,2021-11-20T19:50:42.377Z,,,,,,,,,,,,
+Jarah Emerson,Jarah,Emerson,Gear Collective LLC,www.gearcollectivenyc.com,jarah@gearcollectivenyc.com,nominative@pro,Mr,Gear Collective,www.linkedin.com/company/1297160,Jarah,Jarah Emerson,Emerson,www.gearcollectivenyc.com,Jarah Emerson | Gear Collective LLC | www.gearcollectivenyc.com,2021-11-20T19:50:54.669Z,,,,+64 6-609 2180,,,,,,,,
+Gwendolyn Floyd,Gwendolyn,Floyd,"Soko, Inc.",www.shopsoko.com,,,Mrs,"Soko,",www.linkedin.com/company/soko,Gwendolyn,Gwendolyn Floyd,Floyd,www.shopsoko.com,"Gwendolyn Floyd | Soko, Inc. | www.shopsoko.com",2021-11-20T19:51:06.972Z,18..2D,,,+254 711 619716,380947333,38094733300015,3 Rue Française,Paris,75001,FR39380947333,No email found,
+Carly Burnett,Carly,Burnett,Tkees,www.tkees.com,carly@tkees.com,nominative@pro,Mrs,Tkees,www.linkedin.com/company/tkees,Carly,Carly Burnett,Burnett,www.tkees.com,Carly Burnett | Tkees | www.tkees.com,2021-11-20T19:51:13.013Z,,,,+1 866-853-3766,,,,,,,,
+Teri Jenkins,Teri,Jenkins,Diamond T Embroidery,www.diamondtembroidery.com,teri@diamondtembroidery.com,nominative@pro,Mrs,Diamond T Embroidery,www.linkedin.com/company/diamond-t-embroidery,Teri,Teri Jenkins,Jenkins,www.diamondtembroidery.com,Teri Jenkins | Diamond T Embroidery | www.diamondtembroidery.com,2021-11-20T19:51:24.313Z,,,,,,,,,,,,www.linkedin.com/in/teri-jenkins-a8065b65
+George Hoffman,George,Hoffman,"Fineline Technologies, Inc.",www.finelinetech.com,ghoffman@finelinetech.com,catch-all@pro,Mr,"Fineline Technologies,",www.linkedin.com/company/fineline-technologies,George,George Hoffman,Hoffman,www.finelinetech.com,"George Hoffman | Fineline Technologies, Inc. | www.finelinetech.com",2021-11-20T19:51:36.444Z,,,,+1 800-500-8687,,,,,,,,
+Jeff Steitz,Jeff,Steitz,Serengetee LLC,www.serengetee.com,jeff@serengetee.com,nominative@pro,Mr,Serengetee,www.linkedin.com/company/serengetee-llc,Jeff,Jeff Steitz,Steitz,www.serengetee.com,Jeff Steitz | Serengetee LLC | www.serengetee.com,2021-11-20T19:51:46.996Z,,,,,,,,,,,,
+Julie Feldman,Julie,Feldman,Julie Feldman Designs,www.juliefeldmandesigns.com,,,Mrs,Julie Feldman Designs,,Julie,Julie Feldman,Feldman,www.juliefeldmandesigns.com,Julie Feldman | Julie Feldman Designs | www.juliefeldmandesigns.com,2021-11-20T19:51:53.129Z,,,,+31 6008056,,,,,,,No email found,
+Lillian Chor,Lillian,Chor,Baglanti Llc,www.baglantijewelry.com,,,Mrs,Baglanti,www.linkedin.com/company/baglanti,Lillian,Lillian Chor,Chor,www.baglantijewelry.com,Lillian Chor | Baglanti Llc | www.baglantijewelry.com,2021-11-20T19:52:08.631Z,,,,,,,,,,,No email found,
+James Kitchens,James,Kitchens,Sage Clothing,www.sageclothing.com,,,Mr,Sage Clothing,www.linkedin.com/company/sage-clothing-company-inc.,James,James Kitchens,Kitchens,www.sageclothing.com,James Kitchens | Sage Clothing | www.sageclothing.com,2021-11-20T19:52:14.104Z,,,,,,,,,,,No email found,
+Greg Tomlinson,Greg,Tomlinson,VonZipper,www.vonzipper.com,greg.tomlinson@vonzipper.com,nominative@pro,Mr,Vonzipper,www.linkedin.com/company/vonzipper,Greg,Greg Tomlinson,Tomlinson,www.vonzipper.com,Greg Tomlinson | VonZipper | www.vonzipper.com,2021-11-20T19:52:25.833Z,,,,,,,,,,,,
+Lee Cottone,Lee,Cottone,The Embroidery Store,www.tesapparel.com,,,Mr,The Embroidery Store,www.linkedin.com/company/theembroiderystore,Lee,Lee Cottone,Cottone,www.tesapparel.com,Lee Cottone | The Embroidery Store | www.tesapparel.com,2021-11-20T19:52:38.065Z,,,,,,,,,,,No email found,
+Marina Carroll,Marina,Carroll,BleuFlamme LLC,www.originalstitch.com,marina@originalstitch.com,nominative@pro,Mrs,Bleuflamme,www.linkedin.com/company/original-stitch,Marina,Marina Carroll,Carroll,www.originalstitch.com,Marina Carroll | BleuFlamme LLC | www.originalstitch.com,2021-11-20T19:52:49.571Z,,,,,,,,,,,,
+Scott Nelson,Scott,Nelson,"Local Team Shop, Ltd.",www.localteamshop.com,scott@localteamshop.com,nominative@pro,Mr,"Local Team Shop,",www.linkedin.com/company/local-team-shop-ltd.,Scott,Scott Nelson,Nelson,www.localteamshop.com,"Scott Nelson | Local Team Shop, Ltd. | www.localteamshop.com",2021-11-20T19:53:00.038Z,,,,,,,,,,,,
+Zach Scheimer,Zach,Scheimer,Criquet Shirts LLC,www.criquetshirts.com,zach@criquetshirts.com,nominative@pro,Mr,Criquet Shirts,www.linkedin.com/company/criquet-shirts,Zach,Zach Scheimer,Scheimer,www.criquetshirts.com,Zach Scheimer | Criquet Shirts LLC | www.criquetshirts.com,2021-11-20T19:53:05.518Z,,,,+51 22712215,,,,,,,,
+Kevin Boynton,Kevin,Boynton,Abraxas Jewelers,www.abraxasjewelers.com,,,Mr,Abraxas Jewelers,www.linkedin.com/company/abraxas-jewelers,Kevin,Kevin Boynton,Boynton,www.abraxasjewelers.com,Kevin Boynton | Abraxas Jewelers | www.abraxasjewelers.com,2021-11-20T19:53:17.415Z,,,,,,,,,,,No email found,
+Rob Brandegee,,,"Little Earth Productions, Inc",www.littlearth.com,rob@littlearth.com,nominative@pro,Mr,"Little Earth Productions,",,Rob,Rob Brandegee,Brandegee,www.littlearth.com,"Rob Brandegee | Little Earth Productions, Inc | www.littlearth.com",2021-11-20T19:53:23.793Z,,,,+1 412-471-0909,,,,,,,,

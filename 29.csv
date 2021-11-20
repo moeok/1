@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Steve Ulatowski,Steve,Ulatowski,New Era Gems,www.neweragems.com
-Mark Neumann,Mark,Neumann,Size Stream,www.sizestream.com
-Sukumar Sreenivasan,Sukumar,Sreenivasan,eZeeBags.com,www.ezeebags.com
-Lauren Allegra,Lauren,Allegra,Lauren McM,www.laurenmcm.com
-Himanshu Singh,Himanshu,Singh,Velvet Moon,www.shopvelvetmoon.com
-Brian Carr,Brian,Carr,Solid Threads,www.solidthreads.com
-Steve Goetz,Steve,Goetz,Imperial Motion,www.imperialmotion.com
-Leah Powell,Leah,Powell,SparkleSkirts,www.sparkleskirts.com
-Ali El Gamrini,Ali,Gamrini,Pushers Collective,www.pusherscollective.com
-Debbie Cooper,Debbie,Cooper,Swanky Pins Fashion Hosiery,www.fashionhosiery.co.uk
-Ronald Rothstein,Ronald,Rothstein,Kleinfeld Bridal Corp.,www.kleinfeldbridal.com
-Sheldon Rodrigues,Sheldon,Rodrigues,Spykar Lifestyles Pvt. Ltd.,www.spykar.com
-Amy Covell,Amy,Covell,Lawrence Covell Inc,www.lawrencecovell.com
-Shallan Alaura Ramsey,Shallan,Ramsey,Maskit,www.maskit.com
-Alexander Arencibia,Alexander,Arencibia,J.A. Uniforms,www.jauniforms.com
-Gaurav Gangwani,Gaurav,Gangwani,Ganga Exports,www.ganga-exports.com
-Mary Cathryn Kolb,Mary,Kolb,"BRRR!, Inc.",www.brrr.com
-Barry Cohen,Barry,Cohen,"Lester's of N.Y., Inc.",www.lesters.com
-Mara Urshel,Mara,Urshel,Kleinfeld Bridal Corp.,www.kleinfeldbridal.com
-Katy Gross,,,For Love And Lemons,www.forloveandlemons.com
+First Last,First,Last,Company,Domain,civility,company,company_linkedin,first_name,full_name,last_name,phone,website,error,mailQuery,mailTimestamp,email,qualification,linkedin,naf5_code,naf5_des,siren,siret,siret_address,siret_city,siret_zip,vat,nb_employees
+Steve Ulatowski,Steve,Ulatowski,New Era Gems,www.neweragems.com,Mr,New Era Gems,www.linkedin.com/company/new-era-gems,Steve,Steve Ulatowski,Ulatowski,+53 27 22985,www.neweragems.com,No email found,Steve Ulatowski | New Era Gems | www.neweragems.com,2021-11-20T20:22:10.621Z,,,,,,,,,,,,
+Mark Neumann,Mark,Neumann,Size Stream,www.sizestream.com,Mr,Size Stream,www.linkedin.com/company/size-stream,Mark,Mark Neumann,Neumann,,www.sizestream.com,,Mark Neumann | Size Stream | www.sizestream.com,2021-11-20T20:22:22.860Z,mark.neumann@sizestream.com,nominative@pro,,,,,,,,,,
+Sukumar Sreenivasan,Sukumar,Sreenivasan,eZeeBags.com,www.ezeebags.com,Mr,Ezeebags.com,www.linkedin.com/company/ezeebags-com,Sukumar,Sukumar Sreenivasan,Sreenivasan,+91 98410 30506,www.ezeebags.com,,Sukumar Sreenivasan | eZeeBags.com | www.ezeebags.com,2021-11-20T20:22:29.871Z,sukumar@ezeebags.com,nominative@pro,,,,,,,,,,
+Lauren Allegra,Lauren,Allegra,Lauren McM,www.laurenmcm.com,Mrs,Lauren Mcm,www.linkedin.com/company/lauren-mcm,Lauren,Lauren Allegra,Allegra,,www.laurenmcm.com,,Lauren Allegra | Lauren McM | www.laurenmcm.com,2021-11-20T20:22:36.728Z,lauren@laurenmcm.com,nominative@pro,,,,,,,,,,
+Himanshu Singh,Himanshu,Singh,Velvet Moon,www.shopvelvetmoon.com,Mr,Velvet Moon,www.linkedin.com/company/vishal-printers,Himanshu,Himanshu Singh,Singh,,www.shopvelvetmoon.com,No email found,Himanshu Singh | Velvet Moon | www.shopvelvetmoon.com,2021-11-20T20:22:49.699Z,,,,,,,,,,,,
+Brian Carr,Brian,Carr,Solid Threads,www.solidthreads.com,Mr,Solid Threads,www.linkedin.com/company/solid-threads,Brian,Brian Carr,Carr,,www.solidthreads.com,,Brian Carr | Solid Threads | www.solidthreads.com,2021-11-20T20:22:56.089Z,brian@solidthreads.com,nominative@pro,,,,,,,,,,
+Steve Goetz,Steve,Goetz,Imperial Motion,www.imperialmotion.com,Mr,Imperial Motion,www.linkedin.com/company/imperial-motion,Steve,Steve Goetz,Goetz,+1 844-420-1494,www.imperialmotion.com,,Steve Goetz | Imperial Motion | www.imperialmotion.com,2021-11-20T20:23:08.340Z,stevegoetz@imperialmotion.com,nominative@pro,,,,,,,,,,
+Leah Powell,Leah,Powell,SparkleSkirts,www.sparkleskirts.com,Mrs,Sparkleskirts,www.linkedin.com/company/sparkleskirts,Leah,Leah Powell,Powell,,www.sparkleskirts.com,,Leah Powell | SparkleSkirts | www.sparkleskirts.com,2021-11-20T20:23:19.973Z,leah@sparkleskirts.com,nominative@pro,,,,,,,,,,
+Ali El Gamrini,Ali,Gamrini,Pushers Collective,www.pusherscollective.com,Mr,Pushers Collective,www.linkedin.com/company/pushers-collective,Ali,Ali Gamrini,Gamrini,+1 519-915-1111,www.pusherscollective.com,,Ali El Gamrini | Pushers Collective | www.pusherscollective.com,2021-11-20T20:23:32.621Z,ali@pusherscollective.com,nominative@pro,,,,,,,,,,
+Debbie Cooper,Debbie,Cooper,Swanky Pins Fashion Hosiery,www.fashionhosiery.co.uk,Mrs,Swanky Pins Fashion Hosiery,www.linkedin.com/company/swanky-pins-fashion-hosiery,Debbie,Debbie Cooper,Cooper,+44 20 3287 7973,www.fashionhosiery.co.uk,No email found,Debbie Cooper | Swanky Pins Fashion Hosiery | www.fashionhosiery.co.uk,2021-11-20T20:23:39.218Z,,,www.linkedin.com/in/swankypins,,,,,,,,,
+Ronald Rothstein,Ronald,Rothstein,Kleinfeld Bridal Corp.,www.kleinfeldbridal.com,Mr,Kleinfeld Bridal,www.linkedin.com/company/kleinfeld-manhattan,Ronald,Ronald Rothstein,Rothstein,+64 6-633 4300,www.kleinfeldbridal.com,No email found,Ronald Rothstein | Kleinfeld Bridal Corp. | www.kleinfeldbridal.com,2021-11-20T20:23:45.505Z,,,www.linkedin.com/in/ronald-rothstein-599b0b110,,,,,,,,,
+Sheldon Rodrigues,Sheldon,Rodrigues,Spykar Lifestyles Pvt. Ltd.,www.spykar.com,Mr,Spykar Lifestyles,www.linkedin.com/company/spykar-lifestyles-pvt-ltd,Sheldon,Sheldon Rodrigues,Rodrigues,,www.spykar.com,No email found,Sheldon Rodrigues | Spykar Lifestyles Pvt. Ltd. | www.spykar.com,2021-11-20T20:23:52.763Z,,,,,,,,,,,,
+Amy Covell,Amy,Covell,Lawrence Covell Inc,www.lawrencecovell.com,Mrs,Lawrence Covell,www.linkedin.com/company/lawrence-covell,Amy,Amy Covell,Covell,,www.lawrencecovell.com,,Amy Covell | Lawrence Covell Inc | www.lawrencecovell.com,2021-11-20T20:23:59.644Z,amy@lawrencecovell.com,nominative@pro,,,,,,,,,,
+Shallan Alaura Ramsey,Shallan,Ramsey,Maskit,www.maskit.com,Mr,Maskit,www.linkedin.com/company/maskit,Ramsey,Ramsey Shallan,Shallan,,www.maskit.com,No email found,Shallan Alaura Ramsey | Maskit | www.maskit.com,2021-11-20T20:24:27.428Z,,,,,,,,,,,,
+Alexander Arencibia,Alexander,Arencibia,J.A. Uniforms,www.jauniforms.com,Mr,J.a. Uniforms,www.linkedin.com/company/ja-uniforms,Alexander,Alexander Arencibia,Arencibia,+1 888-252-4411,www.jauniforms.com,,Alexander Arencibia | J.A. Uniforms | www.jauniforms.com,2021-11-20T20:24:48.751Z,aarencibia@jauniforms.com,nominative@pro,www.linkedin.com/in/alexander-arencibia-a8bb591b,,,,,,,,,
+Gaurav Gangwani,Gaurav,Gangwani,Ganga Exports,www.ganga-exports.com,Mr,Ganga Exports,www.linkedin.com/company/ganga-exports,Gaurav,Gaurav Gangwani,Gangwani,,www.ganga-exports.com,,Gaurav Gangwani | Ganga Exports | www.ganga-exports.com,2021-11-20T20:25:01.955Z,gaurav@ganga-exports.com,nominative@pro,,,,,,,,,,
+Mary Cathryn Kolb,Mary,Kolb,"BRRR!, Inc.",www.brrr.com,Mrs,"Brrr!,",www.linkedin.com/company/9450631,Mary,Mary Kolb,Kolb,,www.brrr.com,No email found,"Mary Cathryn Kolb | BRRR!, Inc. | www.brrr.com",2021-11-20T20:25:13.284Z,,,,68.20B,Location de terrains et d'autres biens immobiliers,818725368,81872536800018,53 Route d’Einville,Lunéville,54300,FR25818725368,
+Barry Cohen,Barry,Cohen,"Lester's of N.Y., Inc.",www.lesters.com,Mr,"Lester's Of N.y.,",www.linkedin.com/company/lester's-clothing-and-shoes,Barry,Barry Cohen,Cohen,+1 877-553-7837,www.lesters.com,,"Barry Cohen | Lester's of N.Y., Inc. | www.lesters.com",2021-11-20T20:25:25.453Z,barryc@lesters.com,nominative@pro,www.linkedin.com/in/barryjesfertechnology,,,,,,,,,
+Mara Urshel,Mara,Urshel,Kleinfeld Bridal Corp.,www.kleinfeldbridal.com,Mrs,Kleinfeld Bridal,www.linkedin.com/company/kleinfeld-manhattan,Mara,Mara Urshel,Urshel,+64 6-633 4300,www.kleinfeldbridal.com,,Mara Urshel | Kleinfeld Bridal Corp. | www.kleinfeldbridal.com,2021-11-20T20:25:38.765Z,murshel@kleinfeldbridal.com,nominative@pro,,,,,,,,,,
+Katy Gross,,,For Love And Lemons,www.forloveandlemons.com,Mrs,For Love And Lemons,www.linkedin.com/company/for-love-lemons,Katy,Katy Gross,Gross,,www.forloveandlemons.com,,Katy Gross | For Love And Lemons | www.forloveandlemons.com,2021-11-20T20:25:50.169Z,katy@forloveandlemons.com,nominative@pro,,68.20B,Location de terrains et d'autres biens immobiliers,433954062,43395406200025,24 Rue Louis Ganne,Parthenay,79200,FR75433954062,Unités non employeuses

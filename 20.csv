@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Neil Hoynes,Neil,Hoynes,Ripple Junction Design Company Inc,www.ripplejunction.com
-Cynthia Crighton,Cynthia,Crighton,Gypsy Junkies,www.gypsyjunkies.com
-Andrew Redvanly,Andrew,Redvanly,Redvanly,www.redvanly.com
-Adam Sullivan,Adam,Sullivan,"Brixton, LLC",www.brixton.com
-Jack Gaffney,Jack,Gaffney,Bad Kitty Inc.,www.badkitty.com
-Danielle Wen,Danielle,Wen,Lace & Liberty,www.laceandliberty.com
-Mike Cangi,Mike,Cangi,United By Blue Walnut Street LLC,www.unitedbyblue.com
-Robert Hake,Robert,Hake,MyLocker,www.mylocker.com
-Tarek Deiab,Tarek,Deiab,Henschel Manufacturing Company,www.henschelhats.com
-Nate Riffle,Nate,Riffle,Rapha,www.rapha.cc
-Elliot Djmal,Elliot,Djmal,"Shoptiques, Inc.",www.shoptiques.com
-Margaret Marie Fette,Margaret,Fette,The Tailored Fit,www.thetailoredfit.com
-Ashwin Shetty,Ashwin,Shetty,Shirt Company (India) Ltd.,www.shirt-company.com
-Michael Limes,Michael,Limes,"Print Syndicate, Inc.",www.printsyndicate.com
-Josh Lyon,Josh,Lyon,Damascus,www.damascusapparel.com
-Geoff Benjamin Clawson,Geoff,Clawson,Birdwell Beach Britches,www.birdwell.com
-Mike Bukhin,Mike,Bukhin,Misha And Puff,www.misha-and-puff.com
-Nicholas Nomann,Nicholas,Nomann,YogaClub,www.yogaclub.com
-Joe Baum,Joe,Baum,VarCity Apparel,www.varcityapparel.com
-Sylvana Durrett,,,Maisonette Inc.,www.maisonette.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,phone,website,mailQuery,mailTimestamp,error,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat,company_results,company_turnover,linkedin
+Neil Hoynes,Neil,Hoynes,Ripple Junction Design Company Inc,www.ripplejunction.com,nhoynes@ripplejunction.com,nominative@pro,Mr,Ripple Junction Design Company,www.linkedin.com/company/ripple-junction-design-co-,Neil,Neil Hoynes,Hoynes,+51 37598243,www.ripplejunction.com,Neil Hoynes | Ripple Junction Design Company Inc | www.ripplejunction.com,2021-11-20T19:52:54.574Z,,,,,,,,,,,,,
+Cynthia Crighton,Cynthia,Crighton,Gypsy Junkies,www.gypsyjunkies.com,cynthia@gypsyjunkies.com,nominative@pro,Mrs,Gypsy Junkies,www.linkedin.com/company/gypsy-junkies,Cynthia,Cynthia Crighton,Crighton,,www.gypsyjunkies.com,Cynthia Crighton | Gypsy Junkies | www.gypsyjunkies.com,2021-11-20T19:53:07.065Z,,,,,,,,,,,,,
+Andrew Redvanly,Andrew,Redvanly,Redvanly,www.redvanly.com,,,Mr,Redvanly,www.linkedin.com/company/redvanly,Andrew,Andrew Redvanly,Redvanly,+1 201-915-5201,www.redvanly.com,Andrew Redvanly | Redvanly | www.redvanly.com,2021-11-20T19:53:29.037Z,No email found,,,,,,,,,,,,
+Adam Sullivan,Adam,Sullivan,"Brixton, LLC",www.brixton.com,adam@brixton.com,nominative@pro,Mr,"Brixton,",www.linkedin.com/company/brixton,Adam,Adam Sullivan,Sullivan,,www.brixton.com,"Adam Sullivan | Brixton, LLC | www.brixton.com",2021-11-20T19:53:40.539Z,,47.71Z,Commerce de détail d'habillement en magasin spécialisé,Unités non employeuses,480416122,48041612200012,22 Rue de Caumartin,Paris,75009,FR68480416122,,,
+Jack Gaffney,Jack,Gaffney,Bad Kitty Inc.,www.badkitty.com,,,Mr,Bad Kitty,www.linkedin.com/company/bad-kitty-exotic-wear,Jack,Jack Gaffney,Gaffney,,www.badkitty.com,Jack Gaffney | Bad Kitty Inc. | www.badkitty.com,2021-11-20T19:53:53.310Z,No email found,70.21Z,Conseil en relations publiques et communication,,834793234,83479323400016,17 Rue de la Plaine,Paris,75020,FR55834793234,7135,9300,
+Danielle Wen,Danielle,Wen,Lace & Liberty,www.laceandliberty.com,danielle@laceandliberty.com,nominative@pro,Mrs,Lace & Liberty,www.linkedin.com/company/lace-liberty,Danielle,Danielle Wen,Wen,+1 415-200-2558,www.laceandliberty.com,Danielle Wen | Lace & Liberty | www.laceandliberty.com,2021-11-20T19:54:06.094Z,,,,,,,,,,,,,
+Mike Cangi,Mike,Cangi,United By Blue Walnut Street LLC,www.unitedbyblue.com,mike@unitedbyblue.com,nominative@pro,Mr,United By Blue Walnut Street,www.linkedin.com/company/united-by-blue,Mike,Mike Cangi,Cangi,,www.unitedbyblue.com,Mike Cangi | United By Blue Walnut Street LLC | www.unitedbyblue.com,2021-11-20T19:54:12.940Z,,,,,,,,,,,,,
+Robert Hake,Robert,Hake,MyLocker,www.mylocker.com,robert@mylocker.net,nominative@pro,Mr,Mylocker,www.linkedin.com/company/mylocker,Robert,Robert Hake,Hake,,www.mylocker.com,Robert Hake | MyLocker | www.mylocker.com,2021-11-20T19:54:19.494Z,,,,,,,,,,,,,
+Tarek Deiab,Tarek,Deiab,Henschel Manufacturing Company,www.henschelhats.com,deiab@henschelhats.com,nominative@pro,Mr,Henschel Manufacturing Company,www.linkedin.com/company/henschel-manufacturing-co-,Tarek,Tarek Deiab,Deiab,,www.henschelhats.com,Tarek Deiab | Henschel Manufacturing Company | www.henschelhats.com,2021-11-20T19:54:31.524Z,,,,,,,,,,,,,
+Nate Riffle,Nate,Riffle,Rapha,www.rapha.cc,nate.riffle@rapha.cc,nominative@pro,Mr,Rapha,www.linkedin.com/company/rapha-racing-limited,Nate,Nate Riffle,Riffle,+44 20 7485 5000,www.rapha.cc,Nate Riffle | Rapha | www.rapha.cc,2021-11-20T19:54:38.421Z,,68.20B,Location de terrains et d'autres biens immobiliers,Unités non employeuses,423966746,42396674600020,Route de Genestelle,Vallées-d'Antraigues-Asperjoc,07530,FR69423966746,,,
+Elliot Djmal,Elliot,Djmal,"Shoptiques, Inc.",www.shoptiques.com,elliot@shoptiques.com,nominative@pro,Mr,"Shoptiques,",www.linkedin.com/company/shoptiques-com,Elliot,Elliot Djmal,Djmal,+64 6-368 9685,www.shoptiques.com,"Elliot Djmal | Shoptiques, Inc. | www.shoptiques.com",2021-11-20T19:54:50.506Z,,,,,,,,,,,,,
+Margaret Marie Fette,Margaret,Fette,The Tailored Fit,www.thetailoredfit.com,,,Mrs,The Tailored Fit,www.linkedin.com/company/the-tailored-fit,Margaret,Margaret Fette,Fette,+81 23232665,www.thetailoredfit.com,Margaret Marie Fette | The Tailored Fit | www.thetailoredfit.com,2021-11-20T19:55:12.764Z,No email found,,,,,,,,,,,,www.linkedin.com/in/margaretfette
+Ashwin Shetty,Ashwin,Shetty,Shirt Company (India) Ltd.,www.shirt-company.com,,,Mr,Shirt Company,www.linkedin.com/company/shirt-company-india-limited,Ashwin,Ashwin Shetty,Shetty,,www.shirt-company.com,Ashwin Shetty | Shirt Company (India) Ltd. | www.shirt-company.com,2021-11-20T19:55:25.072Z,No email found,18..2A,,,342681848,34268184800012,19 Rue de Turbigo,Paris,75002,FR77342681848,,,
+Michael Limes,Michael,Limes,"Print Syndicate, Inc.",www.printsyndicate.com,,,Mr,"Print Syndicate,",www.linkedin.com/company/wix-com,Michael,Michael Limes,Limes,,www.printsyndicate.com,"Michael Limes | Print Syndicate, Inc. | www.printsyndicate.com",2021-11-20T19:55:37.894Z,No email found,,,,,,,,,,,,
+Josh Lyon,Josh,Lyon,Damascus,www.damascusapparel.com,,,Mr,Damascus,www.linkedin.com/company/damascus,Josh,Josh Lyon,Lyon,,www.damascusapparel.com,Josh Lyon | Damascus | www.damascusapparel.com,2021-11-20T19:55:49.362Z,No email found,52..4A,,,400507901,40050790100033,38 Cours Gambetta,Lyon,69007,FR41400507901,,,
+Geoff Benjamin Clawson,Geoff,Clawson,Birdwell Beach Britches,www.birdwell.com,geoff@birdwell.com,nominative@pro,Mr,Birdwell Beach Britches,www.linkedin.com/company/birdwell-beach-britches,Geoff,Geoff Clawson,Clawson,+84 42473935,www.birdwell.com,Geoff Benjamin Clawson | Birdwell Beach Britches | www.birdwell.com,2021-11-20T19:56:01.258Z,,,,,,,,,,,,,
+Mike Bukhin,Mike,Bukhin,Misha And Puff,www.misha-and-puff.com,mike@misha-and-puff.com,nominative@pro,Mr,Misha And Puff,www.linkedin.com/company/misha-and-puff,Mike,Mike Bukhin,Bukhin,+1 617-522-5054,www.misha-and-puff.com,Mike Bukhin | Misha And Puff | www.misha-and-puff.com,2021-11-20T19:56:12.792Z,,,,,,,,,,,,,
+Nicholas Nomann,Nicholas,Nomann,YogaClub,www.yogaclub.com,,,Mr,Yogaclub,www.linkedin.com/company/yogaclub,Nicholas,Nicholas Nomann,Nomann,+1 800-778-7879,www.yogaclub.com,Nicholas Nomann | YogaClub | www.yogaclub.com,2021-11-20T19:56:36.836Z,No email found,,,,,,,,,,,,
+Joe Baum,Joe,Baum,VarCity Apparel,www.varcityapparel.com,joe@varcityapparel.com,nominative@pro,Mr,Varcity Apparel,www.linkedin.com/company/varcity-apparel,Joe,Joe Baum,Baum,+855 8272489,www.varcityapparel.com,Joe Baum | VarCity Apparel | www.varcityapparel.com,2021-11-20T19:56:43.820Z,,,,,,,,,,,,,
+Sylvana Durrett,,,Maisonette Inc.,www.maisonette.com,sylvana@maisonette.com,nominative@pro,Mrs,Maisonette,www.linkedin.com/company/maisonette-inc.,Sylvana,Sylvana Durrett,Durrett,+84 46247663,www.maisonette.com,Sylvana Durrett | Maisonette Inc. | www.maisonette.com,2021-11-20T19:56:56.335Z,,68.20B,Location de terrains et d'autres biens immobiliers,,487640237,48764023700011,1034 Rue Principale,Saint-Félix,60370,FR91487640237,,,www.linkedin.com/in/sylvana-durrett-96683869

@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Nilah Petschelt,Nilah,Petschelt,Nilah & Company,www.nilah.com
-Joakim Isaksson,Joakim,Isaksson,Daniel Wellington Inc,www.danielwellington.com
-Gavin Kelly,Gavin,Kelly,Ascent Footwear,www.ascentfootwear.com.au
-Warren Liao,Warren,Liao,Black Lapel,www.blacklapel.com
-Jennifer Bandier,Jennifer,Bandier,Bandier Holdings LLC,www.bandier.com
-Clare Hornby,Clare,Hornby,ME+EM Ltd.,www.meandem.com
-Sage Kanagawa,Sage,Kanagawa,Kanagawa Embroidery Inc.,www.sishuu.com
-Frances Farmer,Frances,Farmer,Calm Amongst the Chaos,www.calmamongstthechaos.co.uk
-Steve Roguski,Steve,Roguski,"Fairhaven Runners, Inc",www.fairhavenrunners.com
-Jenny Chung,Jenny,Chung,Acrimony,www.shopacrimony.com
-Simon Turner,Simon,Turner,Clothes2Order,www.clothes2order.com
-Jason Dement,Jason,Dement,New Life Graphics,www.newlifegraphics.com
-Michael Nguyen,Michael,Nguyen,Garrison Bespoke,www.garrisonbespoke.com
-Lauren Pitts,Lauren,Pitts,"Henry Margu, Inc",www.henrymargu.com
-Oksana Remi,Oksana,Remi,Oksana Remi Couture,www.theweddingexclusive.com
-Carol Arieno,Carol,Arieno,Freedom For Wild Horses LLC,www.freedomforwildhorses.com
-Chris Ferguson,Chris,Ferguson,"Tlf Apparel Holdings, Inc.",www.tlfapparel.com
-Mark Hansen,Mark,Hansen,VarCity Apparel,www.varcityapparel.com
-Megan Hardwick,Megan,Hardwick,TOBIA - Made in Italy,www.tobiastyle.com
-Randy Black,,,"Longworth Industries, Inc.",www.polarmax.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,phone,website,mailQuery,mailTimestamp,naf5_code,naf5_des,siren,siret,siret_address,siret_city,siret_zip,vat,error,linkedin
+Nilah Petschelt,Nilah,Petschelt,Nilah & Company,www.nilah.com,nilah@nilah.com,nominative@pro,Mrs,Nilah & Company,www.linkedin.com/company/nilah-&-company,Nilah,Nilah Petschelt,Petschelt,+1 610-853-9822,www.nilah.com,Nilah Petschelt | Nilah & Company | www.nilah.com,2021-11-20T19:19:08.462Z,,,,,,,,,,
+Joakim Isaksson,Joakim,Isaksson,Daniel Wellington Inc,www.danielwellington.com,joakim.isaksson@danielwellington.com,nominative@pro,Mr,Daniel Wellington,www.linkedin.com/company/daniel-wellington-ab,Joakim,Joakim Isaksson,Isaksson,+33 1 42 77 13 41,www.danielwellington.com,Joakim Isaksson | Daniel Wellington Inc | www.danielwellington.com,2021-11-20T19:19:21.586Z,46.48Z,Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie,800412892,80041289200013,Rue des Suèdes,Chazot,25430,FR02800412892,,
+Gavin Kelly,Gavin,Kelly,Ascent Footwear,www.ascentfootwear.com.au,gavink@ascentfootwear.com.au,nominative@pro,Mr,Ascent Footwear,www.linkedin.com/company/ascent-footwear,Gavin,Gavin Kelly,Kelly,+61 7 3265 5660,www.ascentfootwear.com.au,Gavin Kelly | Ascent Footwear | www.ascentfootwear.com.au,2021-11-20T19:19:28.269Z,,,,,,,,,,
+Warren Liao,Warren,Liao,Black Lapel,www.blacklapel.com,warren@blacklapel.com,nominative@pro,Mr,Black Lapel,www.linkedin.com/company/black-lapel,Warren,Warren Liao,Liao,,www.blacklapel.com,Warren Liao | Black Lapel | www.blacklapel.com,2021-11-20T19:19:34.908Z,,,,,,,,,,
+Jennifer Bandier,Jennifer,Bandier,Bandier Holdings LLC,www.bandier.com,jennifer@bandier.com,nominative@pro,Mrs,Bandier Holdings,www.linkedin.com/company/bandier,Jennifer,Jennifer Bandier,Bandier,+84 48375400,www.bandier.com,Jennifer Bandier | Bandier Holdings LLC | www.bandier.com,2021-11-20T19:19:41.312Z,,,,,,,,,,
+Clare Hornby,Clare,Hornby,ME+EM Ltd.,www.meandem.com,clare@meandem.com,nominative@pro,Mrs,Me+em,www.linkedin.com/company/me&em-ltd,Clare,Clare Hornby,Hornby,,www.meandem.com,Clare Hornby | ME+EM Ltd. | www.meandem.com,2021-11-20T19:19:47.503Z,,,,,,,,,,
+Sage Kanagawa,Sage,Kanagawa,Kanagawa Embroidery Inc.,www.sishuu.com,,,Mr,Kanagawa Embroidery,www.linkedin.com/company/kanagawa-embroidery-inc-,Sage,Sage Kanagawa,Kanagawa,,www.sishuu.com,Sage Kanagawa | Kanagawa Embroidery Inc. | www.sishuu.com,2021-11-20T19:20:05.301Z,,,,,,,,,No email found,
+Frances Farmer,Frances,Farmer,Calm Amongst the Chaos,www.calmamongstthechaos.co.uk,,,Mrs,Calm Amongst The Chaos,www.linkedin.com/company/calm-amongst-the-chaos,Frances,Frances Farmer,Farmer,+44 1425 839836,www.calmamongstthechaos.co.uk,Frances Farmer | Calm Amongst the Chaos | www.calmamongstthechaos.co.uk,2021-11-20T19:20:16.941Z,,,,,,,,,No email found,www.linkedin.com/in/frances-farmer-86921b9b
+Steve Roguski,Steve,Roguski,"Fairhaven Runners, Inc",www.fairhavenrunners.com,steve@fairhavenrunners.com,nominative@pro,Mr,"Fairhaven Runners,",www.linkedin.com/company/fairhaven-runners,Steve,Steve Roguski,Roguski,+36 764955,www.fairhavenrunners.com,"Steve Roguski | Fairhaven Runners, Inc | www.fairhavenrunners.com",2021-11-20T19:20:30.068Z,,,,,,,,,,
+Jenny Chung,Jenny,Chung,Acrimony,www.shopacrimony.com,jenny@shopacrimony.com,nominative@pro,Mrs,Acrimony,www.linkedin.com/company/acrimony,Jenny,Jenny Chung,Chung,,www.shopacrimony.com,Jenny Chung | Acrimony | www.shopacrimony.com,2021-11-20T19:20:42.643Z,,,,,,,,,,
+Simon Turner,Simon,Turner,Clothes2Order,www.clothes2order.com,simon.turner@clothes2order.com,nominative@pro,Mr,Clothes2order,www.linkedin.com/company/clothes2order,Simon,Simon Turner,Turner,+44 161 877 6259,www.clothes2order.com,Simon Turner | Clothes2Order | www.clothes2order.com,2021-11-20T19:20:49.309Z,,,,,,,,,,
+Jason Dement,Jason,Dement,New Life Graphics,www.newlifegraphics.com,jason@newlifegraphics.com,catch-all@pro,Mr,New Life Graphics,www.linkedin.com/company/new-life-graphics,Jason,Jason Dement,Dement,+47 989 96 656,www.newlifegraphics.com,Jason Dement | New Life Graphics | www.newlifegraphics.com,2021-11-20T19:21:02.116Z,,,,,,,,,,
+Michael Nguyen,Michael,Nguyen,Garrison Bespoke,www.garrisonbespoke.com,,,Mr,Garrison Bespoke,www.linkedin.com/company/garrison-bespoke,Michael,Michael Nguyen,Nguyen,+1 416-566-2041,www.garrisonbespoke.com,Michael Nguyen | Garrison Bespoke | www.garrisonbespoke.com,2021-11-20T19:21:13.606Z,,,,,,,,,No email found,
+Lauren Pitts,Lauren,Pitts,"Henry Margu, Inc",www.henrymargu.com,lauren@henrymargu.com,nominative@pro,Mrs,"Henry Margu,",www.linkedin.com/company/henry-margu-inc-,Lauren,Lauren Pitts,Pitts,,www.henrymargu.com,"Lauren Pitts | Henry Margu, Inc | www.henrymargu.com",2021-11-20T19:21:24.989Z,,,,,,,,,,
+Oksana Remi,Oksana,Remi,Oksana Remi Couture,www.theweddingexclusive.com,remi@theweddingexclusive.com,nominative@pro,Mrs,Oksana Remi Couture,www.linkedin.com/company/oksana-remi-couture,Oksana,Oksana Remi,Remi,,www.theweddingexclusive.com,Oksana Remi | Oksana Remi Couture | www.theweddingexclusive.com,2021-11-20T19:21:37.116Z,,,,,,,,,,
+Carol Arieno,Carol,Arieno,Freedom For Wild Horses LLC,www.freedomforwildhorses.com,,,Mrs,Freedom For Wild Horses,www.linkedin.com/company/freedom-for-wild-horses-llc,Carol,Carol Arieno,Arieno,,www.freedomforwildhorses.com,Carol Arieno | Freedom For Wild Horses LLC | www.freedomforwildhorses.com,2021-11-20T19:21:49.952Z,,,,,,,,,No email found,
+Chris Ferguson,Chris,Ferguson,"Tlf Apparel Holdings, Inc.",www.tlfapparel.com,chris.ferguson@tlfapparel.com,nominative@pro,Mr,"Tlf Apparel Holdings,",www.linkedin.com/company/tlf-apparel,Chris,Chris Ferguson,Ferguson,+1 561-206-6043,www.tlfapparel.com,"Chris Ferguson | Tlf Apparel Holdings, Inc. | www.tlfapparel.com",2021-11-20T19:22:02.328Z,,,,,,,,,,
+Mark Hansen,Mark,Hansen,VarCity Apparel,www.varcityapparel.com,mark@varcityapparel.com,nominative@pro,Mr,Varcity Apparel,www.linkedin.com/company/varcity-apparel,Mark,Mark Hansen,Hansen,+855 8272489,www.varcityapparel.com,Mark Hansen | VarCity Apparel | www.varcityapparel.com,2021-11-20T19:22:15.138Z,,,,,,,,,,
+Megan Hardwick,Megan,Hardwick,TOBIA - Made in Italy,www.tobiastyle.com,megan@tobiastyle.com,nominative@pro,Mrs,Tobia - Made In Italy,www.linkedin.com/company/tobiastyle-inc-,Megan,Megan Hardwick,Hardwick,,www.tobiastyle.com,Megan Hardwick | TOBIA - Made in Italy | www.tobiastyle.com,2021-11-20T19:22:33.754Z,,,,,,,,,,
+Randy Black,,,"Longworth Industries, Inc.",www.polarmax.com,randy.black@polarmax.com,nominative@pro,Mr,"Longworth Industries,",www.linkedin.com/company/longworth-industries,Randy,Randy Black,Black,,www.polarmax.com,"Randy Black | Longworth Industries, Inc. | www.polarmax.com",2021-11-20T19:22:46.172Z,,,,,,,,,,
